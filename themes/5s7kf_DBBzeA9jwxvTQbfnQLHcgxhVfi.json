@@ -1,0 +1,4249 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "theme": "Blue Topaz",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supportedVersions": "2026011402",
+        "title": "Blue Topaz",
+        "description": "Blue Topaz Localization & Tweaks",
+        "author": "545"
+    },
+    "dict": [
+        {
+            "type": "name",
+            "source": "🥑Blue Topaz Theme",
+            "target": "🥑Blue Topaz Theme"
+        },
+        {
+            "type": "title",
+            "source": "Attention！Due to obsidian's policy of not being able to use online or local vault images, However, the option to customise the settings and fill in the url is currently supported.",
+            "target": "Attention！Due to obsidian's policy of not being able to use online or local vault images, However, the option to customise the settings and fill in the url is currently supported."
+        },
+        {
+            "type": "title",
+            "source": "1. General settings",
+            "target": "1. General settings"
+        },
+        {
+            "type": "title",
+            "source": "1.1 Color scheme",
+            "target": "1.1 Color scheme"
+        },
+        {
+            "type": "title",
+            "source": "Color palette (from Topaz Community)",
+            "target": "Color palette (from Topaz Community)"
+        },
+        {
+            "type": "label",
+            "source": "Default",
+            "target": "Default"
+        },
+        {
+            "type": "label",
+            "source": "Avocado",
+            "target": "Avocado"
+        },
+        {
+            "type": "label",
+            "source": "Monochrome",
+            "target": "Monochrome"
+        },
+        {
+            "type": "label",
+            "source": "Pink",
+            "target": "Pink"
+        },
+        {
+            "type": "label",
+            "source": "Topaz-Nord",
+            "target": "Topaz-Nord"
+        },
+        {
+            "type": "label",
+            "source": "=↓😺 Created by Topaz Community 🐵↓=",
+            "target": "=↓😺 Created by Topaz Community 🐵↓="
+        },
+        {
+            "type": "label",
+            "source": "Flamingo (@Mouth on Cloud & @Rainbell)",
+            "target": "Flamingo (@Mouth on Cloud & @Rainbell)"
+        },
+        {
+            "type": "label",
+            "source": "Honey milk (@LillianWho)",
+            "target": "Honey milk (@LillianWho)"
+        },
+        {
+            "type": "label",
+            "source": "榛子巧克力 Hazelnut chocolate (@LillianWho)",
+            "target": "榛子巧克力 Hazelnut chocolate (@LillianWho)"
+        },
+        {
+            "type": "label",
+            "source": "Lilac (@awyugan)",
+            "target": "Lilac (@awyugan)"
+        },
+        {
+            "type": "label",
+            "source": "Autumn (@LillianWho)",
+            "target": "Autumn (@LillianWho)"
+        },
+        {
+            "type": "label",
+            "source": "魔方 Rubik's Cube (@LillianWho)",
+            "target": "魔方 Rubik's Cube (@LillianWho)"
+        },
+        {
+            "type": "label",
+            "source": "Simplicity (@Cuman)",
+            "target": "Simplicity (@Cuman)"
+        },
+        {
+            "type": "title",
+            "source": "Disable auto hide header",
+            "target": "Disable auto hide header"
+        },
+        {
+            "type": "title",
+            "source": "Color of Rubik's cube palette",
+            "target": "Color of Rubik's cube palette"
+        },
+        {
+            "type": "title",
+            "source": "Main color",
+            "target": "Main color"
+        },
+        {
+            "type": "title",
+            "source": "Low contrast color",
+            "target": "Low contrast color"
+        },
+        {
+            "type": "title",
+            "source": "Deep color",
+            "target": "Deep color"
+        },
+        {
+            "type": "title",
+            "source": "1.2 Background images",
+            "target": "1.2 Background images"
+        },
+        {
+            "type": "title",
+            "source": "1.2.1 Workplace background image",
+            "target": "1.2.1 Workplace background image"
+        },
+        {
+            "type": "title",
+            "source": "Activate image background",
+            "target": "Activate image background"
+        },
+        {
+            "type": "title",
+            "source": "Side split container background color",
+            "target": "Side split container background color"
+        },
+        {
+            "type": "title",
+            "source": "Light mode",
+            "target": "Light mode"
+        },
+        {
+            "type": "label",
+            "source": "Blue Mountain",
+            "target": "Blue Mountain"
+        },
+        {
+            "type": "label",
+            "source": "Note",
+            "target": "Note"
+        },
+        {
+            "type": "label",
+            "source": "Waves",
+            "target": "Waves"
+        },
+        {
+            "type": "label",
+            "source": "Animating waves",
+            "target": "Animating waves"
+        },
+        {
+            "type": "label",
+            "source": "Custom",
+            "target": "Custom"
+        },
+        {
+            "type": "title",
+            "source": "Custom theme light (url)",
+            "target": "Custom theme light (url)"
+        },
+        {
+            "type": "description",
+            "source": "Customise the background image. Use the format in the Default below for an Online image.",
+            "target": "Customise the background image. Use the format in the Default below for an Online image."
+        },
+        {
+            "type": "title",
+            "source": "Dark mode",
+            "target": "Dark mode"
+        },
+        {
+            "type": "label",
+            "source": "Night sky",
+            "target": "Night sky"
+        },
+        {
+            "type": "label",
+            "source": "Dark sky",
+            "target": "Dark sky"
+        },
+        {
+            "type": "label",
+            "source": "In the sky",
+            "target": "In the sky"
+        },
+        {
+            "type": "title",
+            "source": "Custom theme dark (url)",
+            "target": "Custom theme dark (url)"
+        },
+        {
+            "type": "title",
+            "source": "Blur radius",
+            "target": "Blur radius"
+        },
+        {
+            "type": "description",
+            "source": "To adjust the radius of blur",
+            "target": "To adjust the radius of blur"
+        },
+        {
+            "type": "title",
+            "source": "Brightness of image",
+            "target": "Brightness of image"
+        },
+        {
+            "type": "description",
+            "source": "To adjust the brightness",
+            "target": "To adjust the brightness"
+        },
+        {
+            "type": "title",
+            "source": "Saturation of image",
+            "target": "Saturation of image"
+        },
+        {
+            "type": "description",
+            "source": "To adjust the saturation",
+            "target": "To adjust the saturation"
+        },
+        {
+            "type": "title",
+            "source": "Waves color",
+            "target": "Waves color"
+        },
+        {
+            "type": "title",
+            "source": "Random background",
+            "target": "Random background"
+        },
+        {
+            "type": "description",
+            "source": "Images will be refreshed when Obsidian launches; Internet required",
+            "target": "Images will be refreshed when Obsidian launches; Internet required"
+        },
+        {
+            "type": "title",
+            "source": "1.2.2 Note page background image",
+            "target": "1.2.2 Note page background image"
+        },
+        {
+            "type": "title",
+            "source": "Toggle note background image",
+            "target": "Toggle note background image"
+        },
+        {
+            "type": "title",
+            "source": "Activate non-overlapping note background when toggling workplace background",
+            "target": "Activate non-overlapping note background when toggling workplace background"
+        },
+        {
+            "type": "title",
+            "source": "Choose image set",
+            "target": "Choose image set"
+        },
+        {
+            "type": "label",
+            "source": "Transparent",
+            "target": "Transparent"
+        },
+        {
+            "type": "title",
+            "source": "Opacity",
+            "target": "Opacity"
+        },
+        {
+            "type": "title",
+            "source": "custom markdown page background color",
+            "target": "custom markdown page background color"
+        },
+        {
+            "type": "title",
+            "source": "Custom image (Light mode)",
+            "target": "Custom image (Light mode)"
+        },
+        {
+            "type": "title",
+            "source": "Custom image (Dark mode)",
+            "target": "Custom image (Dark mode)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle notebook-liked background",
+            "target": "Toggle notebook-liked background"
+        },
+        {
+            "type": "title",
+            "source": "Notebook-liked background",
+            "target": "Notebook-liked background"
+        },
+        {
+            "type": "label",
+            "source": "Grid notebook 1 (@CZ-15/YZ-10)",
+            "target": "Grid notebook 1 (@CZ-15/YZ-10)"
+        },
+        {
+            "type": "label",
+            "source": "Grid notebook 2",
+            "target": "Grid notebook 2"
+        },
+        {
+            "type": "label",
+            "source": "Dotted notebook 1",
+            "target": "Dotted notebook 1"
+        },
+        {
+            "type": "label",
+            "source": "Dotted notebook 2",
+            "target": "Dotted notebook 2"
+        },
+        {
+            "type": "label",
+            "source": "Stripe notebook 1",
+            "target": "Stripe notebook 1"
+        },
+        {
+            "type": "label",
+            "source": "Stripe notebook 2",
+            "target": "Stripe notebook 2"
+        },
+        {
+            "type": "title",
+            "source": "Toggle fixed pattern",
+            "target": "Toggle fixed pattern"
+        },
+        {
+            "type": "title",
+            "source": "1.2.2.1 Notebook-liked background options",
+            "target": "1.2.2.1 Notebook-liked background options"
+        },
+        {
+            "type": "title",
+            "source": "Toggle background of split pane",
+            "target": "Toggle background of split pane"
+        },
+        {
+            "type": "title",
+            "source": "Notebook background color",
+            "target": "Notebook background color"
+        },
+        {
+            "type": "title",
+            "source": "Grid notebook line color",
+            "target": "Grid notebook line color"
+        },
+        {
+            "type": "title",
+            "source": "Grid notebook line color for 'Grid 2'",
+            "target": "Grid notebook line color for 'Grid 2'"
+        },
+        {
+            "type": "title",
+            "source": "Dotted notebook dot color",
+            "target": "Dotted notebook dot color"
+        },
+        {
+            "type": "title",
+            "source": "Stripe notebook stripe color",
+            "target": "Stripe notebook stripe color"
+        },
+        {
+            "type": "title",
+            "source": "1.2.3 Images of command palette",
+            "target": "1.2.3 Images of command palette"
+        },
+        {
+            "type": "title",
+            "source": "Toggle images of command palette",
+            "target": "Toggle images of command palette"
+        },
+        {
+            "type": "title",
+            "source": "Same background as workplace's",
+            "target": "Same background as workplace's"
+        },
+        {
+            "type": "title",
+            "source": "Custom background image",
+            "target": "Custom background image"
+        },
+        {
+            "type": "title",
+            "source": "Custom theme (light, url)",
+            "target": "Custom theme (light, url)"
+        },
+        {
+            "type": "title",
+            "source": "Custom theme (dark, url)",
+            "target": "Custom theme (dark, url)"
+        },
+        {
+            "type": "title",
+            "source": "Brightness",
+            "target": "Brightness"
+        },
+        {
+            "type": "title",
+            "source": "Saturation",
+            "target": "Saturation"
+        },
+        {
+            "type": "title",
+            "source": "1.2.4 File explorer background",
+            "target": "1.2.4 File explorer background"
+        },
+        {
+            "type": "title",
+            "source": "Toggle background image",
+            "target": "Toggle background image"
+        },
+        {
+            "type": "title",
+            "source": "Image picking (Light mode)",
+            "target": "Image picking (Light mode)"
+        },
+        {
+            "type": "label",
+            "source": "Wall",
+            "target": "Wall"
+        },
+        {
+            "type": "title",
+            "source": "Image picking (Dark mode)",
+            "target": "Image picking (Dark mode)"
+        },
+        {
+            "type": "label",
+            "source": "Plant",
+            "target": "Plant"
+        },
+        {
+            "type": "title",
+            "source": "1.3 Layout",
+            "target": "1.3 Layout"
+        },
+        {
+            "type": "title",
+            "source": "Left ribbon styles",
+            "target": "Left ribbon styles"
+        },
+        {
+            "type": "label",
+            "source": "Fixed",
+            "target": "Fixed"
+        },
+        {
+            "type": "label",
+            "source": "Hide to left",
+            "target": "Hide to left"
+        },
+        {
+            "type": "label",
+            "source": "Hide to the left retention drawer",
+            "target": "Hide to the left retention drawer"
+        },
+        {
+            "type": "label",
+            "source": "Bubble",
+            "target": "Bubble"
+        },
+        {
+            "type": "label",
+            "source": "Bubble, hide to left",
+            "target": "Bubble, hide to left"
+        },
+        {
+            "type": "title",
+            "source": "Search bar style",
+            "target": "Search bar style"
+        },
+        {
+            "type": "label",
+            "source": "Bottom",
+            "target": "Bottom"
+        },
+        {
+            "type": "title",
+            "source": "Fullwidth status bar",
+            "target": "Fullwidth status bar"
+        },
+        {
+            "type": "title",
+            "source": "Scrollbar style",
+            "target": "Scrollbar style"
+        },
+        {
+            "type": "label",
+            "source": "Hovering (adapted from @subframe7536's css snippet)",
+            "target": "Hovering (adapted from @subframe7536's css snippet)"
+        },
+        {
+            "type": "label",
+            "source": "Remove Scrollbar",
+            "target": "Remove Scrollbar"
+        },
+        {
+            "type": "label",
+            "source": "Obsidian default",
+            "target": "Obsidian default"
+        },
+        {
+            "type": "title",
+            "source": "Scrollbar thumb background",
+            "target": "Scrollbar thumb background"
+        },
+        {
+            "type": "title",
+            "source": "Scrollbar thumb background (Active)",
+            "target": "Scrollbar thumb background (Active)"
+        },
+        {
+            "type": "title",
+            "source": "The view status button is placed in front of the header",
+            "target": "The view status button is placed in front of the header"
+        },
+        {
+            "type": "title",
+            "source": "The tab title bar positioned to the left",
+            "target": "The tab title bar positioned to the left"
+        },
+        {
+            "type": "title",
+            "source": "Toggle non-divided-line style",
+            "target": "Toggle non-divided-line style"
+        },
+        {
+            "type": "title",
+            "source": "Toggle non-divided-line header box",
+            "target": "Toggle non-divided-line header box"
+        },
+        {
+            "type": "title",
+            "source": "Layout styles",
+            "target": "Layout styles"
+        },
+        {
+            "type": "label",
+            "source": "Rectangle",
+            "target": "Rectangle"
+        },
+        {
+            "type": "label",
+            "source": "Asymmetric Style of Split Panes",
+            "target": "Asymmetric Style of Split Panes"
+        },
+        {
+            "type": "title",
+            "source": "1.3.1 Bubble settings",
+            "target": "1.3.1 Bubble settings"
+        },
+        {
+            "type": "title",
+            "source": "Enable card format for file browser",
+            "target": "Enable card format for file browser"
+        },
+        {
+            "type": "title",
+            "source": "Remove borders of bubbles",
+            "target": "Remove borders of bubbles"
+        },
+        {
+            "type": "title",
+            "source": "Toggle bubble buttons",
+            "target": "Toggle bubble buttons"
+        },
+        {
+            "type": "title",
+            "source": "Bubble padding",
+            "target": "Bubble padding"
+        },
+        {
+            "type": "title",
+            "source": "Bubble radius",
+            "target": "Bubble radius"
+        },
+        {
+            "type": "title",
+            "source": "2. Detail settings",
+            "target": "2. Detail settings"
+        },
+        {
+            "type": "title",
+            "source": "2.1 Color settings",
+            "target": "2.1 Color settings"
+        },
+        {
+            "type": "title",
+            "source": "Main text color",
+            "target": "Main text color"
+        },
+        {
+            "type": "title",
+            "source": "2.1.1 Background colors",
+            "target": "2.1.1 Background colors"
+        },
+        {
+            "type": "title",
+            "source": "Background primary",
+            "target": "Background primary"
+        },
+        {
+            "type": "description",
+            "source": "background-primary-bg-4-bt",
+            "target": "background-primary-bg-4-bt"
+        },
+        {
+            "type": "title",
+            "source": "Background primary (alt)",
+            "target": "Background primary (alt)"
+        },
+        {
+            "type": "description",
+            "source": "background-primary-alt-bg-4-bt",
+            "target": "background-primary-alt-bg-4-bt"
+        },
+        {
+            "type": "title",
+            "source": "Background secondary",
+            "target": "Background secondary"
+        },
+        {
+            "type": "description",
+            "source": "background-secondary-bg-4-bt",
+            "target": "background-secondary-bg-4-bt"
+        },
+        {
+            "type": "title",
+            "source": "Background secondary (alt)",
+            "target": "Background secondary (alt)"
+        },
+        {
+            "type": "description",
+            "source": "background-secondary-alt-bg-4-bt",
+            "target": "background-secondary-alt-bg-4-bt"
+        },
+        {
+            "type": "title",
+            "source": "Background modifier border",
+            "target": "Background modifier border"
+        },
+        {
+            "type": "title",
+            "source": "2.1.2 Theme colors",
+            "target": "2.1.2 Theme colors"
+        },
+        {
+            "type": "title",
+            "source": "Theme color",
+            "target": "Theme color"
+        },
+        {
+            "type": "description",
+            "source": "interactive-accent",
+            "target": "interactive-accent"
+        },
+        {
+            "type": "title",
+            "source": "2.1.3 Other colors",
+            "target": "2.1.3 Other colors"
+        },
+        {
+            "type": "title",
+            "source": "Bold type color",
+            "target": "Bold type color"
+        },
+        {
+            "type": "description",
+            "source": "--accent-strong",
+            "target": "--accent-strong"
+        },
+        {
+            "type": "title",
+            "source": "Italic type color",
+            "target": "Italic type color"
+        },
+        {
+            "type": "description",
+            "source": "--accent-em",
+            "target": "--accent-em"
+        },
+        {
+            "type": "title",
+            "source": "Bold italic color 1",
+            "target": "Bold italic color 1"
+        },
+        {
+            "type": "description",
+            "source": "--strong-em-color-1",
+            "target": "--strong-em-color-1"
+        },
+        {
+            "type": "title",
+            "source": "Bold italic color 2",
+            "target": "Bold italic color 2"
+        },
+        {
+            "type": "description",
+            "source": "--strong-em-color-2",
+            "target": "--strong-em-color-2"
+        },
+        {
+            "type": "title",
+            "source": "Color of mathematical expressions (inline $x=0$)",
+            "target": "Color of mathematical expressions (inline $x=0$)"
+        },
+        {
+            "type": "description",
+            "source": "--mjx-inline-math-color",
+            "target": "--mjx-inline-math-color"
+        },
+        {
+            "type": "title",
+            "source": "Color of mathematical expressions ($$x=0$$)",
+            "target": "Color of mathematical expressions ($$x=0$$)"
+        },
+        {
+            "type": "description",
+            "source": "--mjx-math-color",
+            "target": "--mjx-math-color"
+        },
+        {
+            "type": "title",
+            "source": "Color of leaf resize handle",
+            "target": "Color of leaf resize handle"
+        },
+        {
+            "type": "description",
+            "source": "--background-leaf-resize-handle",
+            "target": "--background-leaf-resize-handle"
+        },
+        {
+            "type": "title",
+            "source": "File search result highlight color",
+            "target": "File search result highlight color"
+        },
+        {
+            "type": "description",
+            "source": "--search-result-file-matched-bg",
+            "target": "--search-result-file-matched-bg"
+        },
+        {
+            "type": "title",
+            "source": "Text search result highlight color",
+            "target": "Text search result highlight color"
+        },
+        {
+            "type": "description",
+            "source": "--text-search-highlight-bg",
+            "target": "--text-search-highlight-bg"
+        },
+        {
+            "type": "title",
+            "source": "Text selection background",
+            "target": "Text selection background"
+        },
+        {
+            "type": "description",
+            "source": "--text-selection",
+            "target": "--text-selection"
+        },
+        {
+            "type": "title",
+            "source": "Toggle selection background (Non-text part)",
+            "target": "Toggle selection background (Non-text part)"
+        },
+        {
+            "type": "title",
+            "source": "Status bar background",
+            "target": "Status bar background"
+        },
+        {
+            "type": "description",
+            "source": "--status-bar-bg",
+            "target": "--status-bar-bg"
+        },
+        {
+            "type": "title",
+            "source": "Status bar text color",
+            "target": "Status bar text color"
+        },
+        {
+            "type": "description",
+            "source": "--status-bar-text-color",
+            "target": "--status-bar-text-color"
+        },
+        {
+            "type": "title",
+            "source": "Focused icon color",
+            "target": "Focused icon color"
+        },
+        {
+            "type": "description",
+            "source": "--icon-color-focused",
+            "target": "--icon-color-focused"
+        },
+        {
+            "type": "title",
+            "source": "Divider color",
+            "target": "Divider color"
+        },
+        {
+            "type": "title",
+            "source": "Tab outline color",
+            "target": "Tab outline color"
+        },
+        {
+            "type": "title",
+            "source": "2.1.4 Graph-view colors",
+            "target": "2.1.4 Graph-view colors"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view canvas background",
+            "target": "Graph-view canvas background"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view text color",
+            "target": "Graph-view text color"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view line color",
+            "target": "Graph-view line color"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view line highlight color (Hovering)",
+            "target": "Graph-view line highlight color (Hovering)"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view arrow color",
+            "target": "Graph-view arrow color"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view circle outline color",
+            "target": "Graph-view circle outline color"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view normal circle color",
+            "target": "Graph-view normal circle color"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view circle color (Tag)",
+            "target": "Graph-view circle color (Tag)"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view circle color (Unresolved)",
+            "target": "Graph-view circle color (Unresolved)"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view circle color (Attachment)",
+            "target": "Graph-view circle color (Attachment)"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view settings background color",
+            "target": "Graph-view settings background color"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view circle highlight color (Hovering)",
+            "target": "Graph-view circle highlight color (Hovering)"
+        },
+        {
+            "type": "title",
+            "source": "2.2 Typography",
+            "target": "2.2 Typography"
+        },
+        {
+            "type": "title",
+            "source": "2.2.1 Font family",
+            "target": "2.2.1 Font family"
+        },
+        {
+            "type": "title",
+            "source": "Use Obsidian default font family",
+            "target": "Use Obsidian default font family"
+        },
+        {
+            "type": "title",
+            "source": "Main font",
+            "target": "Main font"
+        },
+        {
+            "type": "description",
+            "source": "Fonts except from the code texts",
+            "target": "Fonts except from the code texts"
+        },
+        {
+            "type": "title",
+            "source": "Folder & file title",
+            "target": "Folder & file title"
+        },
+        {
+            "type": "title",
+            "source": "Codebox",
+            "target": "Codebox"
+        },
+        {
+            "type": "title",
+            "source": "Inline code",
+            "target": "Inline code"
+        },
+        {
+            "type": "title",
+            "source": "Tag",
+            "target": "Tag"
+        },
+        {
+            "type": "title",
+            "source": "Bold text",
+            "target": "Bold text"
+        },
+        {
+            "type": "title",
+            "source": "Bold text font weight",
+            "target": "Bold text font weight"
+        },
+        {
+            "type": "description",
+            "source": "type 'light, normal, bold, bolder; or 100-900'",
+            "target": "type 'light, normal, bold, bolder; or 100-900'"
+        },
+        {
+            "type": "title",
+            "source": "Italic text",
+            "target": "Italic text"
+        },
+        {
+            "type": "title",
+            "source": "Italic text style",
+            "target": "Italic text style"
+        },
+        {
+            "type": "description",
+            "source": "typy normal or italic",
+            "target": "typy normal or italic"
+        },
+        {
+            "type": "title",
+            "source": "Vault name",
+            "target": "Vault name"
+        },
+        {
+            "type": "title",
+            "source": "2.2.2 Font size",
+            "target": "2.2.2 Font size"
+        },
+        {
+            "type": "title",
+            "source": "File Header (NOT for Sliding Pane plugin)",
+            "target": "File Header (NOT for Sliding Pane plugin)"
+        },
+        {
+            "type": "title",
+            "source": "Folder and file",
+            "target": "Folder and file"
+        },
+        {
+            "type": "title",
+            "source": "Outline font size",
+            "target": "Outline font size"
+        },
+        {
+            "type": "title",
+            "source": "Codeblock",
+            "target": "Codeblock"
+        },
+        {
+            "type": "title",
+            "source": "Mathematical expressions",
+            "target": "Mathematical expressions"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3 Headers",
+            "target": "2.2.3 Headers"
+        },
+        {
+            "type": "title",
+            "source": "Clutter free headings",
+            "target": "Clutter free headings"
+        },
+        {
+            "type": "description",
+            "source": "Adapted from https://github.com/deathau/obsidian-snippets/blob/main/clutter-free-headings.css",
+            "target": "Adapted from https://github.com/deathau/obsidian-snippets/blob/main/clutter-free-headings.css"
+        },
+        {
+            "type": "title",
+            "source": "Funny header animation in live preview",
+            "target": "Funny header animation in live preview"
+        },
+        {
+            "type": "description",
+            "source": "Adapted from https://cdn.discordapp.com/attachments/702656734631821413/1007258862606352424/FunnyHeaderAnimLP.css @sailKite",
+            "target": "Adapted from https://cdn.discordapp.com/attachments/702656734631821413/1007258862606352424/FunnyHeaderAnimLP.css @sailKite"
+        },
+        {
+            "type": "title",
+            "source": "Remove H1-H6 Indicators before headings when hovering",
+            "target": "Remove H1-H6 Indicators before headings when hovering"
+        },
+        {
+            "type": "title",
+            "source": "Retain header color",
+            "target": "Retain header color"
+        },
+        {
+            "type": "description",
+            "source": "Retain original color of headers when using italic, bold or bold italic within headers",
+            "target": "Retain original color of headers when using italic, bold or bold italic within headers"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.1 Header 1",
+            "target": "2.2.3.1 Header 1"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 color",
+            "target": "Header 1 color"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 size",
+            "target": "Header 1 size"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 font family",
+            "target": "Header 1 font family"
+        },
+        {
+            "type": "description",
+            "source": "eg：var(--font-text-override),\"Microsoft YaHei\"",
+            "target": "eg：var(--font-text-override),\"Microsoft YaHei\""
+        },
+        {
+            "type": "title",
+            "source": "Toggle h1 underline",
+            "target": "Toggle h1 underline"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 underline width",
+            "target": "Header 1 underline width"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 underline style",
+            "target": "Header 1 underline style"
+        },
+        {
+            "type": "description",
+            "source": "solid, double, dotted, dashed, groove, ridge",
+            "target": "solid, double, dotted, dashed, groove, ridge"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 underline color",
+            "target": "Header 1 underline color"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h1 underline (Shorter)",
+            "target": "Toggle h1 underline (Shorter)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h1 Background",
+            "target": "Toggle h1 Background"
+        },
+        {
+            "type": "title",
+            "source": "h1 bg",
+            "target": "h1 bg"
+        },
+        {
+            "type": "title",
+            "source": "h1 font weight",
+            "target": "h1 font weight"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 line height",
+            "target": "Header 1 line height"
+        },
+        {
+            "type": "title",
+            "source": "h1 Text-align",
+            "target": "h1 Text-align"
+        },
+        {
+            "type": "label",
+            "source": "Default (Left/Start)",
+            "target": "Default (Left/Start)"
+        },
+        {
+            "type": "label",
+            "source": "Center",
+            "target": "Center"
+        },
+        {
+            "type": "label",
+            "source": "Right/End",
+            "target": "Right/End"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.2 Header 2",
+            "target": "2.2.3.2 Header 2"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 color",
+            "target": "Header 2 color"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 size",
+            "target": "Header 2 size"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 font family",
+            "target": "Header 2 font family"
+        },
+        {
+            "type": "title",
+            "source": "toggle h2 underline",
+            "target": "toggle h2 underline"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 underline width",
+            "target": "Header 2 underline width"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 underline style",
+            "target": "Header 2 underline style"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 underline color",
+            "target": "Header 2 underline color"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h2 underline (Shorter)",
+            "target": "Toggle h2 underline (Shorter)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h2 background",
+            "target": "Toggle h2 background"
+        },
+        {
+            "type": "title",
+            "source": "h2 background color",
+            "target": "h2 background color"
+        },
+        {
+            "type": "title",
+            "source": "h2 font weight",
+            "target": "h2 font weight"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 line height",
+            "target": "Header 2 line height"
+        },
+        {
+            "type": "title",
+            "source": "h2 text-align",
+            "target": "h2 text-align"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.3 Header 3",
+            "target": "2.2.3.3 Header 3"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 color",
+            "target": "Header 3 color"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 size",
+            "target": "Header 3 size"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 font family",
+            "target": "Header 3 font family"
+        },
+        {
+            "type": "title",
+            "source": "toggle h3 underline",
+            "target": "toggle h3 underline"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 underline width",
+            "target": "Header 6 underline width"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 underline style",
+            "target": "Header 3 underline style"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 underline color",
+            "target": "Header 3 underline color"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h3 underline (Shorter)",
+            "target": "Toggle h3 underline (Shorter)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h3 Background",
+            "target": "Toggle h3 Background"
+        },
+        {
+            "type": "title",
+            "source": "h3 background color",
+            "target": "h3 background color"
+        },
+        {
+            "type": "title",
+            "source": "h3 font weight",
+            "target": "h3 font weight"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 line height",
+            "target": "Header 3 line height"
+        },
+        {
+            "type": "title",
+            "source": "h3 text-align",
+            "target": "h3 text-align"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.4 Header 4",
+            "target": "2.2.3.4 Header 4"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 color",
+            "target": "Header 4 color"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 size",
+            "target": "Header 4 size"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 font family",
+            "target": "Header 4 font family"
+        },
+        {
+            "type": "title",
+            "source": "toggle h4 underline",
+            "target": "toggle h4 underline"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 underline width",
+            "target": "Header 4 underline width"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 underline style",
+            "target": "Header 4 underline style"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 underline color",
+            "target": "Header 4 underline color"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h4 underline (Shorter)",
+            "target": "Toggle h4 underline (Shorter)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h4 Background",
+            "target": "Toggle h4 Background"
+        },
+        {
+            "type": "title",
+            "source": "h4 background color",
+            "target": "h4 background color"
+        },
+        {
+            "type": "title",
+            "source": "h4 font weight",
+            "target": "h4 font weight"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 line height",
+            "target": "Header 4 line height"
+        },
+        {
+            "type": "title",
+            "source": "h4 text-align",
+            "target": "h4 text-align"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.5 Header 5",
+            "target": "2.2.3.5 Header 5"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 color",
+            "target": "Header 5 color"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 size",
+            "target": "Header 5 size"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 font family",
+            "target": "Header 5 font family"
+        },
+        {
+            "type": "title",
+            "source": "toggle h5 underline",
+            "target": "toggle h5 underline"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 underline width",
+            "target": "Header 5 underline width"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 underline style",
+            "target": "Header 5 underline style"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 underline color",
+            "target": "Header 5 underline color"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h5 underline (Shorter)",
+            "target": "Toggle h5 underline (Shorter)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h5 Background",
+            "target": "Toggle h5 Background"
+        },
+        {
+            "type": "title",
+            "source": "h5 background color",
+            "target": "h5 background color"
+        },
+        {
+            "type": "title",
+            "source": "h5 font weight",
+            "target": "h5 font weight"
+        },
+        {
+            "type": "title",
+            "source": "h5 text-align",
+            "target": "h5 text-align"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.6 Header 6",
+            "target": "2.2.3.6 Header 6"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 color",
+            "target": "Header 6 color"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 size",
+            "target": "Header 6 size"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 font family",
+            "target": "Header 6 font family"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h6 underline",
+            "target": "Toggle h6 underline"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 underline style",
+            "target": "Header 6 underline style"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 underline color",
+            "target": "Header 6 underline color"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h6 underline (Shorter)",
+            "target": "Toggle h6 underline (Shorter)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h6 background",
+            "target": "Toggle h6 background"
+        },
+        {
+            "type": "title",
+            "source": "h6 background color",
+            "target": "h6 background color"
+        },
+        {
+            "type": "title",
+            "source": "h6 font weight",
+            "target": "h6 font weight"
+        },
+        {
+            "type": "title",
+            "source": "h6 text-align",
+            "target": "h6 text-align"
+        },
+        {
+            "type": "title",
+            "source": "2.2.4 Other typography settings",
+            "target": "2.2.4 Other typography settings"
+        },
+        {
+            "type": "title",
+            "source": "Line width (in the mode of 'readable line length')",
+            "target": "Line width (in the mode of 'readable line length')"
+        },
+        {
+            "type": "description",
+            "source": "The maximum line width in rem units (1rem = Body font size)",
+            "target": "The maximum line width in rem units (1rem = Body font size)"
+        },
+        {
+            "type": "title",
+            "source": "Line height",
+            "target": "Line height"
+        },
+        {
+            "type": "title",
+            "source": "Toggle paragraph spacing in reading mode",
+            "target": "Toggle paragraph spacing in reading mode"
+        },
+        {
+            "type": "title",
+            "source": "Paragraph spacing",
+            "target": "Paragraph spacing"
+        },
+        {
+            "type": "title",
+            "source": "Letter spacing",
+            "target": "Letter spacing"
+        },
+        {
+            "type": "title",
+            "source": "Slight indentation of the first line",
+            "target": "Slight indentation of the first line"
+        },
+        {
+            "type": "description",
+            "source": "Enable global effect, local effect only need to declare \"cssclass：indent\" in the YAML area. Contextual Typography plugin needs to be installed in Reading mode.",
+            "target": "Enable global effect, local effect only need to declare \"cssclass：indent\" in the YAML area. Contextual Typography plugin needs to be installed in Reading mode."
+        },
+        {
+            "type": "title",
+            "source": "Alignment of both ends",
+            "target": "Alignment of both ends"
+        },
+        {
+            "type": "description",
+            "source": "Enable global effect, local effect only need to declare \"cssclass：text-justify\" in the YAML area.",
+            "target": "Enable global effect, local effect only need to declare \"cssclass：text-justify\" in the YAML area."
+        },
+        {
+            "type": "title",
+            "source": "Reduce padding bottom of pages",
+            "target": "Reduce padding bottom of pages"
+        },
+        {
+            "type": "title",
+            "source": "Adjust padding bottom of pages",
+            "target": "Adjust padding bottom of pages"
+        },
+        {
+            "type": "title",
+            "source": "Toggle Left-aligned note content",
+            "target": "Toggle Left-aligned note content"
+        },
+        {
+            "type": "description",
+            "source": "Left-aligned content when turned on, instead of centered by default",
+            "target": "Left-aligned content when turned on, instead of centered by default"
+        },
+        {
+            "type": "title",
+            "source": "2.2.5 *.md file in split pane",
+            "target": "2.2.5 *.md file in split pane"
+        },
+        {
+            "type": "title",
+            "source": "Font size",
+            "target": "Font size"
+        },
+        {
+            "type": "title",
+            "source": "Toggle default style",
+            "target": "Toggle default style"
+        },
+        {
+            "type": "title",
+            "source": "2.2.6 Inline title",
+            "target": "2.2.6 Inline title"
+        },
+        {
+            "type": "title",
+            "source": "Inline title font",
+            "target": "Inline title font"
+        },
+        {
+            "type": "title",
+            "source": "Inline title color",
+            "target": "Inline title color"
+        },
+        {
+            "type": "title",
+            "source": "Inline title size",
+            "target": "Inline title size"
+        },
+        {
+            "type": "title",
+            "source": "Inline title line height",
+            "target": "Inline title line height"
+        },
+        {
+            "type": "title",
+            "source": "Inline title weight",
+            "target": "Inline title weight"
+        },
+        {
+            "type": "title",
+            "source": "Toggle underline",
+            "target": "Toggle underline"
+        },
+        {
+            "type": "title",
+            "source": "Inline title underline width",
+            "target": "Inline title underline width"
+        },
+        {
+            "type": "title",
+            "source": "Inline title underline style",
+            "target": "Inline title underline style"
+        },
+        {
+            "type": "title",
+            "source": "Inline title underline color",
+            "target": "Inline title underline color"
+        },
+        {
+            "type": "title",
+            "source": "Toggle underline (Shorter)",
+            "target": "Toggle underline (Shorter)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle inline title background",
+            "target": "Toggle inline title background"
+        },
+        {
+            "type": "title",
+            "source": "Inline title background color",
+            "target": "Inline title background color"
+        },
+        {
+            "type": "title",
+            "source": "Inline title background image (url)",
+            "target": "Inline title background image (url)"
+        },
+        {
+            "type": "title",
+            "source": "Inline title text-align",
+            "target": "Inline title text-align"
+        },
+        {
+            "type": "title",
+            "source": "2.3 Element styles",
+            "target": "2.3 Element styles"
+        },
+        {
+            "type": "title",
+            "source": "Active line background color",
+            "target": "Active line background color"
+        },
+        {
+            "type": "title",
+            "source": "Mute active line",
+            "target": "Mute active line"
+        },
+        {
+            "type": "title",
+            "source": "Remove colorful background of active file title",
+            "target": "Remove colorful background of active file title"
+        },
+        {
+            "type": "description",
+            "source": "Make it austere",
+            "target": "Make it austere"
+        },
+        {
+            "type": "title",
+            "source": "Toggle title navigation bar position to left",
+            "target": "Toggle title navigation bar position to left"
+        },
+        {
+            "type": "title",
+            "source": "2.3.1 Dividing line (Horizontal ruler, hr, ---)",
+            "target": "2.3.1 Dividing line (Horizontal ruler, hr, ---)"
+        },
+        {
+            "type": "title",
+            "source": "Fancy Dividing line (Horizontal ruler, hr, ---)",
+            "target": "Fancy Dividing line (Horizontal ruler, hr, ---)"
+        },
+        {
+            "type": "label",
+            "source": "with icons",
+            "target": "with icons"
+        },
+        {
+            "type": "label",
+            "source": "without icons",
+            "target": "without icons"
+        },
+        {
+            "type": "label",
+            "source": "with Numbers",
+            "target": "with Numbers"
+        },
+        {
+            "type": "title",
+            "source": "2.3.1.1 w/ icons",
+            "target": "2.3.1.1 w/ icons"
+        },
+        {
+            "type": "title",
+            "source": "Line color 1",
+            "target": "Line color 1"
+        },
+        {
+            "type": "title",
+            "source": "Line color 2",
+            "target": "Line color 2"
+        },
+        {
+            "type": "title",
+            "source": "Line color 3",
+            "target": "Line color 3"
+        },
+        {
+            "type": "title",
+            "source": "Line color 4",
+            "target": "Line color 4"
+        },
+        {
+            "type": "title",
+            "source": "Centre icon",
+            "target": "Centre icon"
+        },
+        {
+            "type": "description",
+            "source": "Do not remove the quotes",
+            "target": "Do not remove the quotes"
+        },
+        {
+            "type": "title",
+            "source": "Degree of icon rotation",
+            "target": "Degree of icon rotation"
+        },
+        {
+            "type": "title",
+            "source": "2.3.1.2 w/o icons",
+            "target": "2.3.1.2 w/o icons"
+        },
+        {
+            "type": "title",
+            "source": "hr-color-1",
+            "target": "hr-color-1"
+        },
+        {
+            "type": "title",
+            "source": "hr-color-2",
+            "target": "hr-color-2"
+        },
+        {
+            "type": "title",
+            "source": "hr-color-3",
+            "target": "hr-color-3"
+        },
+        {
+            "type": "title",
+            "source": "hr-color-4",
+            "target": "hr-color-4"
+        },
+        {
+            "type": "title",
+            "source": "2.3.1.3 w/ numbers",
+            "target": "2.3.1.3 w/ numbers"
+        },
+        {
+            "type": "title",
+            "source": "Number color",
+            "target": "Number color"
+        },
+        {
+            "type": "title",
+            "source": "Number background color",
+            "target": "Number background color"
+        },
+        {
+            "type": "title",
+            "source": "Toggle hollow numbers",
+            "target": "Toggle hollow numbers"
+        },
+        {
+            "type": "title",
+            "source": "Fill color",
+            "target": "Fill color"
+        },
+        {
+            "type": "description",
+            "source": "Color inside the numbers",
+            "target": "Color inside the numbers"
+        },
+        {
+            "type": "title",
+            "source": "Stroke color",
+            "target": "Stroke color"
+        },
+        {
+            "type": "description",
+            "source": "Color of lines drawn around numbers",
+            "target": "Color of lines drawn around numbers"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2 List",
+            "target": "2.3.2 List"
+        },
+        {
+            "type": "title",
+            "source": "Line height of list（Read mode）",
+            "target": "Line height of list（Read mode）"
+        },
+        {
+            "type": "title",
+            "source": "List Spacing",
+            "target": "List Spacing"
+        },
+        {
+            "type": "title",
+            "source": "List indent",
+            "target": "List indent"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2.1 Unordered list",
+            "target": "2.3.2.1 Unordered list"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful unordered list marker",
+            "target": "Toggle colorful unordered list marker"
+        },
+        {
+            "type": "title",
+            "source": "Unordered list marker style",
+            "target": "Unordered list marker style"
+        },
+        {
+            "type": "label",
+            "source": "Blue Topaz Default",
+            "target": "Blue Topaz Default"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2.1.1 Options for 'Blue Topaz Default'",
+            "target": "2.3.2.1.1 Options for 'Blue Topaz Default'"
+        },
+        {
+            "type": "title",
+            "source": "Bullet size",
+            "target": "Bullet size"
+        },
+        {
+            "type": "title",
+            "source": "Text color (1st level)",
+            "target": "Text color (1st level)"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2.1.2 Options for 'Custom'",
+            "target": "2.3.2.1.2 Options for 'Custom'"
+        },
+        {
+            "type": "title",
+            "source": "List symbol (1st level)",
+            "target": "List symbol (1st level)"
+        },
+        {
+            "type": "title",
+            "source": "Bullet size (1st level)",
+            "target": "Bullet size (1st level)"
+        },
+        {
+            "type": "title",
+            "source": "Bullet color (1st level)",
+            "target": "Bullet color (1st level)"
+        },
+        {
+            "type": "title",
+            "source": "List symbol (2nd level)",
+            "target": "List symbol (2nd level)"
+        },
+        {
+            "type": "title",
+            "source": "Bullet size (2nd level)",
+            "target": "Bullet size (2nd level)"
+        },
+        {
+            "type": "title",
+            "source": "Bullet color (2nd level)",
+            "target": "Bullet color (2nd level)"
+        },
+        {
+            "type": "title",
+            "source": "List symbol (3rd level)",
+            "target": "List symbol (3rd level)"
+        },
+        {
+            "type": "title",
+            "source": "Bullet size (3rd level)",
+            "target": "Bullet size (3rd level)"
+        },
+        {
+            "type": "title",
+            "source": "Bullet color (3rd level)",
+            "target": "Bullet color (3rd level)"
+        },
+        {
+            "type": "title",
+            "source": "List symbol (4th level)",
+            "target": "List symbol (4th level)"
+        },
+        {
+            "type": "title",
+            "source": "Bullet size (4th level)",
+            "target": "Bullet size (4th level)"
+        },
+        {
+            "type": "title",
+            "source": "Bullet color (4th level)",
+            "target": "Bullet color (4th level)"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2.2 Ordered list",
+            "target": "2.3.2.2 Ordered list"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful ordered list marker",
+            "target": "Toggle colorful ordered list marker"
+        },
+        {
+            "type": "title",
+            "source": "Ordered List marker style",
+            "target": "Ordered List marker style"
+        },
+        {
+            "type": "label",
+            "source": "1.1.1",
+            "target": "1.1.1"
+        },
+        {
+            "type": "title",
+            "source": "Number color of ordered list",
+            "target": "Number color of ordered list"
+        },
+        {
+            "type": "description",
+            "source": "数字：decimal，小写字母：lower-latin，小写罗马数字：lower-roman",
+            "target": "数字：decimal，小写字母：lower-latin，小写罗马数字：lower-roman"
+        },
+        {
+            "type": "title",
+            "source": "List style in reading view",
+            "target": "List style in reading view"
+        },
+        {
+            "type": "label",
+            "source": "Bracket 1",
+            "target": "Bracket 1"
+        },
+        {
+            "type": "label",
+            "source": "Bracket 2 (1.1.1)",
+            "target": "Bracket 2 (1.1.1)"
+        },
+        {
+            "type": "label",
+            "source": "Bracket 3",
+            "target": "Bracket 3"
+        },
+        {
+            "type": "label",
+            "source": "Vertical line 1 (1.1.1)",
+            "target": "Vertical line 1 (1.1.1)"
+        },
+        {
+            "type": "label",
+            "source": "Using Ob Settings",
+            "target": "Using Ob Settings"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2.3 Indentation lines",
+            "target": "2.3.2.3 Indentation lines"
+        },
+        {
+            "type": "title",
+            "source": "Toggle connected indent (Hovering)",
+            "target": "Toggle connected indent (Hovering)"
+        },
+        {
+            "type": "description",
+            "source": "Inspired from the CSS snippet by KillyMXI (https://gist.github.com/KillyMXI/cbef8edff6dd55d9e6ea4df66567e9b1)",
+            "target": "Inspired from the CSS snippet by KillyMXI (https://gist.github.com/KillyMXI/cbef8edff6dd55d9e6ea4df66567e9b1)"
+        },
+        {
+            "type": "title",
+            "source": "Connected indent line color (Hovering)",
+            "target": "Connected indent line color (Hovering)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful indentation lines (Hovering)",
+            "target": "Toggle colorful indentation lines (Hovering)"
+        },
+        {
+            "type": "title",
+            "source": "Width of indentation lines (Hovering)",
+            "target": "Width of indentation lines (Hovering)"
+        },
+        {
+            "type": "title",
+            "source": "Move to right by ?px (Editing)",
+            "target": "Move to right by ?px (Editing)"
+        },
+        {
+            "type": "title",
+            "source": "Inactive line color (Editing)",
+            "target": "Inactive line color (Editing)"
+        },
+        {
+            "type": "title",
+            "source": "Active line color (Editing)",
+            "target": "Active line color (Editing)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful indentation lines (Editing)",
+            "target": "Toggle colorful indentation lines (Editing)"
+        },
+        {
+            "type": "title",
+            "source": "Indent line width (Editing)",
+            "target": "Indent line width (Editing)"
+        },
+        {
+            "type": "title",
+            "source": "Move to right by ?px (Reading)",
+            "target": "Move to right by ?px (Reading)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful indentation lines (Reading)",
+            "target": "Toggle colorful indentation lines (Reading)"
+        },
+        {
+            "type": "title",
+            "source": "Line styles (Reading)",
+            "target": "Line styles (Reading)"
+        },
+        {
+            "type": "label",
+            "source": "Gradient",
+            "target": "Gradient"
+        },
+        {
+            "type": "label",
+            "source": "Image",
+            "target": "Image"
+        },
+        {
+            "type": "title",
+            "source": "Indentation gradient color 1",
+            "target": "Indentation gradient color 1"
+        },
+        {
+            "type": "title",
+            "source": "Indentation gradient color 2",
+            "target": "Indentation gradient color 2"
+        },
+        {
+            "type": "title",
+            "source": "Width of colorful indentation lines (Reading)",
+            "target": "Width of colorful indentation lines (Reading)"
+        },
+        {
+            "type": "title",
+            "source": "Add an image as indentation lines (Reading)",
+            "target": "Add an image as indentation lines (Reading)"
+        },
+        {
+            "type": "title",
+            "source": "2.3.3 Folder",
+            "target": "2.3.3 Folder"
+        },
+        {
+            "type": "title",
+            "source": "File background shape",
+            "target": "File background shape"
+        },
+        {
+            "type": "label",
+            "source": "Rounded Rectangle",
+            "target": "Rounded Rectangle"
+        },
+        {
+            "type": "label",
+            "source": "Pill",
+            "target": "Pill"
+        },
+        {
+            "type": "title",
+            "source": "File name style",
+            "target": "File name style"
+        },
+        {
+            "type": "label",
+            "source": "Wrapped",
+            "target": "Wrapped"
+        },
+        {
+            "type": "label",
+            "source": "Non-wrapped",
+            "target": "Non-wrapped"
+        },
+        {
+            "type": "label",
+            "source": "File Name Scrolling When Hovering",
+            "target": "File Name Scrolling When Hovering"
+        },
+        {
+            "type": "title",
+            "source": "Dark file background",
+            "target": "Dark file background"
+        },
+        {
+            "type": "title",
+            "source": "Remove file icons",
+            "target": "Remove file icons"
+        },
+        {
+            "type": "description",
+            "source": "To remove the icons before .md files",
+            "target": "To remove the icons before .md files"
+        },
+        {
+            "type": "title",
+            "source": "Color of file icons",
+            "target": "Color of file icons"
+        },
+        {
+            "type": "title",
+            "source": "Activate Folder Icons",
+            "target": "Activate Folder Icons"
+        },
+        {
+            "type": "title",
+            "source": "Remove the first-layer folder icons",
+            "target": "Remove the first-layer folder icons"
+        },
+        {
+            "type": "title",
+            "source": "Folder Icons w/o arrows (Collapse Indicator)",
+            "target": "Folder Icons w/o arrows (Collapse Indicator)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle Folder note underline",
+            "target": "Toggle Folder note underline"
+        },
+        {
+            "type": "title",
+            "source": "Toggle Folder note dot",
+            "target": "Toggle Folder note dot"
+        },
+        {
+            "type": "title",
+            "source": "2.3.3.1 Colorful folder",
+            "target": "2.3.3.1 Colorful folder"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful folders",
+            "target": "Toggle colorful folders"
+        },
+        {
+            "type": "title",
+            "source": "Select folder colorful mode",
+            "target": "Select folder colorful mode"
+        },
+        {
+            "type": "label",
+            "source": "Default non-colorful",
+            "target": "Default non-colorful"
+        },
+        {
+            "type": "label",
+            "source": "folder colorful  with  \"0-9\" or  \"A-Z\"",
+            "target": "folder colorful  with  \"0-9\" or  \"A-Z\""
+        },
+        {
+            "type": "label",
+            "source": "folder colorful by order",
+            "target": "folder colorful by order"
+        },
+        {
+            "type": "label",
+            "source": "folder title colorful",
+            "target": "folder title colorful"
+        },
+        {
+            "type": "label",
+            "source": "Tab-liked",
+            "target": "Tab-liked"
+        },
+        {
+            "type": "label",
+            "source": "Border",
+            "target": "Border"
+        },
+        {
+            "type": "title",
+            "source": "Folder color palette",
+            "target": "Folder color palette"
+        },
+        {
+            "type": "label",
+            "source": "Style 1 (high transparency)",
+            "target": "Style 1 (high transparency)"
+        },
+        {
+            "type": "label",
+            "source": "Style 2 (low transparency)",
+            "target": "Style 2 (low transparency)"
+        },
+        {
+            "type": "label",
+            "source": "Style 3",
+            "target": "Style 3"
+        },
+        {
+            "type": "label",
+            "source": "Style 4",
+            "target": "Style 4"
+        },
+        {
+            "type": "label",
+            "source": "Style 5",
+            "target": "Style 5"
+        },
+        {
+            "type": "label",
+            "source": "Style 6",
+            "target": "Style 6"
+        },
+        {
+            "type": "title",
+            "source": "Custom color of folder",
+            "target": "Custom color of folder"
+        },
+        {
+            "type": "title",
+            "source": "2.3.4 Blockquote",
+            "target": "2.3.4 Blockquote"
+        },
+        {
+            "type": "title",
+            "source": "Blockquote",
+            "target": "Blockquote"
+        },
+        {
+            "type": "label",
+            "source": "With quotation mark",
+            "target": "With quotation mark"
+        },
+        {
+            "type": "label",
+            "source": "Speech Bubble 1",
+            "target": "Speech Bubble 1"
+        },
+        {
+            "type": "label",
+            "source": "Speech Bubble 2",
+            "target": "Speech Bubble 2"
+        },
+        {
+            "type": "label",
+            "source": "Outline",
+            "target": "Outline"
+        },
+        {
+            "type": "label",
+            "source": "Border left",
+            "target": "Border left"
+        },
+        {
+            "type": "title",
+            "source": "2.3.5 Exported PDF style",
+            "target": "2.3.5 Exported PDF style"
+        },
+        {
+            "type": "title",
+            "source": "Exported PDF style",
+            "target": "Exported PDF style"
+        },
+        {
+            "type": "title",
+            "source": "Use hr (---) for paging",
+            "target": "Use hr (---) for paging"
+        },
+        {
+            "type": "title",
+            "source": "All dark (Experimental, may or may not be desirable)",
+            "target": "All dark (Experimental, may or may not be desirable)"
+        },
+        {
+            "type": "description",
+            "source": "Export PDF with dark mode color scheme",
+            "target": "Export PDF with dark mode color scheme"
+        },
+        {
+            "type": "title",
+            "source": "Print URL after links",
+            "target": "Print URL after links"
+        },
+        {
+            "type": "title",
+            "source": "Strong color",
+            "target": "Strong color"
+        },
+        {
+            "type": "title",
+            "source": "PDF View",
+            "target": "PDF View"
+        },
+        {
+            "type": "title",
+            "source": "PDF styles (Light)",
+            "target": "PDF styles (Light)"
+        },
+        {
+            "type": "label",
+            "source": "Invert colors",
+            "target": "Invert colors"
+        },
+        {
+            "type": "label",
+            "source": "Green",
+            "target": "Green"
+        },
+        {
+            "type": "label",
+            "source": "Warm",
+            "target": "Warm"
+        },
+        {
+            "type": "title",
+            "source": "PDF styles (Dark)",
+            "target": "PDF styles (Dark)"
+        },
+        {
+            "type": "title",
+            "source": "Custom PDF background",
+            "target": "Custom PDF background"
+        },
+        {
+            "type": "title",
+            "source": "2.3.6 Embeds",
+            "target": "2.3.6 Embeds"
+        },
+        {
+            "type": "title",
+            "source": "Fixed embedded content height",
+            "target": "Fixed embedded content height"
+        },
+        {
+            "type": "title",
+            "source": "Height of embedded content",
+            "target": "Height of embedded content"
+        },
+        {
+            "type": "description",
+            "source": "Switch on the above button to activate",
+            "target": "Switch on the above button to activate"
+        },
+        {
+            "type": "title",
+            "source": "Transparent embedded background",
+            "target": "Transparent embedded background"
+        },
+        {
+            "type": "title",
+            "source": "Hide embedded title",
+            "target": "Hide embedded title"
+        },
+        {
+            "type": "title",
+            "source": "Hide embedded banner",
+            "target": "Hide embedded banner"
+        },
+        {
+            "type": "title",
+            "source": "Hide embedded headers",
+            "target": "Hide embedded headers"
+        },
+        {
+            "type": "title",
+            "source": "Floating effect of embedded note when hovering",
+            "target": "Floating effect of embedded note when hovering"
+        },
+        {
+            "type": "title",
+            "source": "2.3.7 Table",
+            "target": "2.3.7 Table"
+        },
+        {
+            "type": "title",
+            "source": "Toggle table zooming effect",
+            "target": "Toggle table zooming effect"
+        },
+        {
+            "type": "title",
+            "source": "Table format",
+            "target": "Table format"
+        },
+        {
+            "type": "label",
+            "source": "Defaut table",
+            "target": "Defaut table"
+        },
+        {
+            "type": "label",
+            "source": "Wrapped table (break all)",
+            "target": "Wrapped table (break all)"
+        },
+        {
+            "type": "label",
+            "source": "Non-wrapped table (limited cell width)",
+            "target": "Non-wrapped table (limited cell width)"
+        },
+        {
+            "type": "label",
+            "source": "Non-wrapped table",
+            "target": "Non-wrapped table"
+        },
+        {
+            "type": "title",
+            "source": "Show borders",
+            "target": "Show borders"
+        },
+        {
+            "type": "title",
+            "source": "Table width",
+            "target": "Table width"
+        },
+        {
+            "type": "label",
+            "source": "100%",
+            "target": "100%"
+        },
+        {
+            "type": "label",
+            "source": "auto",
+            "target": "auto"
+        },
+        {
+            "type": "title",
+            "source": "Full-width table display",
+            "target": "Full-width table display"
+        },
+        {
+            "type": "description",
+            "source": "for Reading View, require Contextual Typography plugin",
+            "target": "for Reading View, require Contextual Typography plugin"
+        },
+        {
+            "type": "title",
+            "source": "Table Style",
+            "target": "Table Style"
+        },
+        {
+            "type": "label",
+            "source": "Style I",
+            "target": "Style I"
+        },
+        {
+            "type": "label",
+            "source": "Style II",
+            "target": "Style II"
+        },
+        {
+            "type": "label",
+            "source": "Style III",
+            "target": "Style III"
+        },
+        {
+            "type": "title",
+            "source": "2.3.8 Cloze style",
+            "target": "2.3.8 Cloze style"
+        },
+        {
+            "type": "title",
+            "source": "Cancel cloze Style",
+            "target": "Cancel cloze Style"
+        },
+        {
+            "type": "description",
+            "source": "In this theme, you can use ==~~your words~~==, *==~~your words~~==* and *~~your words~~* to obtain a cloze-style, active this option to cancel it",
+            "target": "In this theme, you can use ==~~your words~~==, *==~~your words~~==* and *~~your words~~* to obtain a cloze-style, active this option to cancel it"
+        },
+        {
+            "type": "title",
+            "source": "Cloze background color",
+            "target": "Cloze background color"
+        },
+        {
+            "type": "description",
+            "source": "Cloze Style One, i.e. ==~~your words~~==, hovering to find \"your words\", should declare \"cssclass：cloze\" in the YAML area if you want to use them in the Live Preview mode",
+            "target": "Cloze Style One, i.e. ==~~your words~~==, hovering to find \"your words\", should declare \"cssclass：cloze\" in the YAML area if you want to use them in the Live Preview mode"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration style",
+            "target": "Underline decoration style"
+        },
+        {
+            "type": "description",
+            "source": "Can type 'solid', 'dotted', 'dashed', 'wavy' or 'double' for Cloze Style One, i.e. ==~~your words~~==, hovering to find \"your words\", should declare \"cssclass：cloze\" in the YAML area if you want to use them in the Live Preview mode",
+            "target": "Can type 'solid', 'dotted', 'dashed', 'wavy' or 'double' for Cloze Style One, i.e. ==~~your words~~==, hovering to find \"your words\", should declare \"cssclass：cloze\" in the YAML area if you want to use them in the Live Preview mode"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration color",
+            "target": "Underline decoration color"
+        },
+        {
+            "type": "description",
+            "source": "For Cloze Style One, i.e. ==~~your words~~==, hovering to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode",
+            "target": "For Cloze Style One, i.e. ==~~your words~~==, hovering to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration style for Cloze style TWO",
+            "target": "Underline decoration style for Cloze style TWO"
+        },
+        {
+            "type": "description",
+            "source": "Can type 'solid', 'dotted', 'dashed', 'wavy', 'double' or 'none' for Cloze Style TWO, i.e. *==~~your words~~==*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode",
+            "target": "Can type 'solid', 'dotted', 'dashed', 'wavy', 'double' or 'none' for Cloze Style TWO, i.e. *==~~your words~~==*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration color for Cloze style TWO",
+            "target": "Underline decoration color for Cloze style TWO"
+        },
+        {
+            "type": "description",
+            "source": "For Cloze Style TWO, i.e. *==~~your words~~==*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode",
+            "target": "For Cloze Style TWO, i.e. *==~~your words~~==*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration style for Cloze style THREE (*~~your words~~*)",
+            "target": "Underline decoration style for Cloze style THREE (*~~your words~~*)"
+        },
+        {
+            "type": "description",
+            "source": "Can type 'solid', 'dotted', 'dashed', 'wavy', 'double' or 'none' for Cloze Style THREE, i.e. *~~your words~~*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode",
+            "target": "Can type 'solid', 'dotted', 'dashed', 'wavy', 'double' or 'none' for Cloze Style THREE, i.e. *~~your words~~*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration color for Cloze style THREE",
+            "target": "Underline decoration color for Cloze style THREE"
+        },
+        {
+            "type": "description",
+            "source": "For Cloze Style THREE, i.e. *~~your words~~*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode",
+            "target": "For Cloze Style THREE, i.e. *~~your words~~*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode"
+        },
+        {
+            "type": "title",
+            "source": "2.3.9 Links",
+            "target": "2.3.9 Links"
+        },
+        {
+            "type": "title",
+            "source": "Toggle internal link underline",
+            "target": "Toggle internal link underline"
+        },
+        {
+            "type": "title",
+            "source": "Disable external link underline",
+            "target": "Disable external link underline"
+        },
+        {
+            "type": "title",
+            "source": "Disable unresolved link underline",
+            "target": "Disable unresolved link underline"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful link background (hovering)",
+            "target": "Toggle colorful link background (hovering)"
+        },
+        {
+            "type": "title",
+            "source": "Internal link color",
+            "target": "Internal link color"
+        },
+        {
+            "type": "title",
+            "source": "Toggle icon after external link",
+            "target": "Toggle icon after external link"
+        },
+        {
+            "type": "title",
+            "source": "External link color",
+            "target": "External link color"
+        },
+        {
+            "type": "title",
+            "source": "Toggle default unresolved link color",
+            "target": "Toggle default unresolved link color"
+        },
+        {
+            "type": "title",
+            "source": "Unresolved Link Color",
+            "target": "Unresolved Link Color"
+        },
+        {
+            "type": "title",
+            "source": "Cancel click the link to trigger auto-jump",
+            "target": "Cancel click the link to trigger auto-jump"
+        },
+        {
+            "type": "description",
+            "source": "You can click on the link by holding down the ctrl key to jump",
+            "target": "You can click on the link by holding down the ctrl key to jump"
+        },
+        {
+            "type": "title",
+            "source": "2.3.10 Cursor",
+            "target": "2.3.10 Cursor"
+        },
+        {
+            "type": "title",
+            "source": "Cursor color",
+            "target": "Cursor color"
+        },
+        {
+            "type": "title",
+            "source": "2.3.11 Checkbox",
+            "target": "2.3.11 Checkbox"
+        },
+        {
+            "type": "title",
+            "source": "Enable Alternative Checkboxes",
+            "target": "Enable Alternative Checkboxes"
+        },
+        {
+            "type": "description",
+            "source": "Disable this if you are using your own implementation via a CSS Snippet.",
+            "target": "Disable this if you are using your own implementation via a CSS Snippet."
+        },
+        {
+            "type": "title",
+            "source": "Circular checkbox",
+            "target": "Circular checkbox"
+        },
+        {
+            "type": "title",
+            "source": "Add strikethrough for checked items",
+            "target": "Add strikethrough for checked items"
+        },
+        {
+            "type": "title",
+            "source": "Checked text color",
+            "target": "Checked text color"
+        },
+        {
+            "type": "title",
+            "source": "Checkbox Size",
+            "target": "Checkbox Size"
+        },
+        {
+            "type": "title",
+            "source": "Deactivate checkbox animation",
+            "target": "Deactivate checkbox animation"
+        },
+        {
+            "type": "title",
+            "source": "2.3.12 Icons",
+            "target": "2.3.12 Icons"
+        },
+        {
+            "type": "title",
+            "source": "Toggle default icons",
+            "target": "Toggle default icons"
+        },
+        {
+            "type": "title",
+            "source": "Toggle default collapse icons",
+            "target": "Toggle default collapse icons"
+        },
+        {
+            "type": "title",
+            "source": "Enable clickable-icons' hovering animation",
+            "target": "Enable clickable-icons' hovering animation"
+        },
+        {
+            "type": "title",
+            "source": "2.3.13 Images",
+            "target": "2.3.13 Images"
+        },
+        {
+            "type": "title",
+            "source": "Deactivate image zooming",
+            "target": "Deactivate image zooming"
+        },
+        {
+            "type": "title",
+            "source": "Obsidian default image position",
+            "target": "Obsidian default image position"
+        },
+        {
+            "type": "title",
+            "source": "Image max-width",
+            "target": "Image max-width"
+        },
+        {
+            "type": "title",
+            "source": "Image borders",
+            "target": "Image borders"
+        },
+        {
+            "type": "title",
+            "source": "Intro to basic image position",
+            "target": "Intro to basic image position"
+        },
+        {
+            "type": "description",
+            "source": "You can add 🔸|Left (can also use `left`, `LEFT` or `L` to replace the `Left` before), 🔸|Right (right/RIGHT/R) and 🔸|Inline (inline/INLINE/inl/INL/Inl) 🔸|Centre/Center (CENTRE/CENTER/centre/center/C) (the “centre” one is for the “Obsidian Default Image Position above only, because Topaz's default image position is in the centre) into a image format to adjust the image position, e.g. ![[*.jpg|L]], ![[*.png|Right|200]] and ![|inl](...*.jpg)",
+            "target": "You can add 🔸|Left (can also use `left`, `LEFT` or `L` to replace the `Left` before), 🔸|Right (right/RIGHT/R) and 🔸|Inline (inline/INLINE/inl/INL/Inl) 🔸|Centre/Center (CENTRE/CENTER/centre/center/C) (the “centre” one is for the “Obsidian Default Image Position above only, because Topaz's default image position is in the centre) into a image format to adjust the image position, e.g. ![[*.jpg|L]], ![[*.png|Right|200]] and ![|inl](...*.jpg)"
+        },
+        {
+            "type": "title",
+            "source": "Intro to image caption",
+            "target": "Intro to image caption"
+        },
+        {
+            "type": "description",
+            "source": "You can add 🔸#Left|your captions (can also use `left`, `LEFT` or `L` to replace the `Left`), 🔸#Right (or right/RIGHT/R)|your captions, 🔸#center/centre (CENTRE/CENTER/Center/Centre/C) |your captions and 🔸#inl (Inline/INLINE/inline/INL/Inl) |your captions into a image format to adjust the image position with a image caption, e.g. ![[*.jpg#left|Figure 1]], ![[*.png#right|Figure 2|200]], ![[*.jpg#centre|Figure 3]] and ![[*.jpg#inl|Figure 4|100]]",
+            "target": "You can add 🔸#Left|your captions (can also use `left`, `LEFT` or `L` to replace the `Left`), 🔸#Right (or right/RIGHT/R)|your captions, 🔸#center/centre (CENTRE/CENTER/Center/Centre/C) |your captions and 🔸#inl (Inline/INLINE/inline/INL/Inl) |your captions into a image format to adjust the image position with a image caption, e.g. ![[*.jpg#left|Figure 1]], ![[*.png#right|Figure 2|200]], ![[*.jpg#centre|Figure 3]] and ![[*.jpg#inl|Figure 4|100]]"
+        },
+        {
+            "type": "title",
+            "source": "Intro to image grid",
+            "target": "Intro to image grid"
+        },
+        {
+            "type": "description",
+            "source": "You can add 🔸|+grid into some images to grid these images in a line, e.g. ![[*.jpg|+grid]] Or type ❗cssclass：img-grid❗ in YAML to make images arrange in a grid in the preview mode. require Contextual Typography plugin",
+            "target": "You can add 🔸|+grid into some images to grid these images in a line, e.g. ![[*.jpg|+grid]] Or type ❗cssclass：img-grid❗ in YAML to make images arrange in a grid in the preview mode. require Contextual Typography plugin"
+        },
+        {
+            "type": "title",
+            "source": "Enable global image grid",
+            "target": "Enable global image grid"
+        },
+        {
+            "type": "description",
+            "source": "Enable the Contextual Typography plugin to control side-by-side images via blank lines",
+            "target": "Enable the Contextual Typography plugin to control side-by-side images via blank lines"
+        },
+        {
+            "type": "title",
+            "source": "2.3.14 Loading page",
+            "target": "2.3.14 Loading page"
+        },
+        {
+            "type": "title",
+            "source": "Loading page style",
+            "target": "Loading page style"
+        },
+        {
+            "type": "label",
+            "source": "Default Loading Page",
+            "target": "Default Loading Page"
+        },
+        {
+            "type": "label",
+            "source": "Shapes",
+            "target": "Shapes"
+        },
+        {
+            "type": "label",
+            "source": "Custom Text",
+            "target": "Custom Text"
+        },
+        {
+            "type": "label",
+            "source": "Default Text w/ Icons Before and After",
+            "target": "Default Text w/ Icons Before and After"
+        },
+        {
+            "type": "label",
+            "source": "Cat (GIF)",
+            "target": "Cat (GIF)"
+        },
+        {
+            "type": "label",
+            "source": "Adding Image or Animation (GIF)",
+            "target": "Adding Image or Animation (GIF)"
+        },
+        {
+            "type": "label",
+            "source": "Animation with Position Changing",
+            "target": "Animation with Position Changing"
+        },
+        {
+            "type": "label",
+            "source": "Jumping Mario",
+            "target": "Jumping Mario"
+        },
+        {
+            "type": "title",
+            "source": "2.3.14.1 Custom text",
+            "target": "2.3.14.1 Custom text"
+        },
+        {
+            "type": "title",
+            "source": "Custom text",
+            "target": "Custom text"
+        },
+        {
+            "type": "title",
+            "source": "Font family of custom text",
+            "target": "Font family of custom text"
+        },
+        {
+            "type": "title",
+            "source": "Text color",
+            "target": "Text color"
+        },
+        {
+            "type": "title",
+            "source": "Typing style",
+            "target": "Typing style"
+        },
+        {
+            "type": "title",
+            "source": "Moving style",
+            "target": "Moving style"
+        },
+        {
+            "type": "title",
+            "source": "Shinning style",
+            "target": "Shinning style"
+        },
+        {
+            "type": "title",
+            "source": "Color-changing style",
+            "target": "Color-changing style"
+        },
+        {
+            "type": "title",
+            "source": "2.3.14.2 Custom image/animation",
+            "target": "2.3.14.2 Custom image/animation"
+        },
+        {
+            "type": "title",
+            "source": "Adding things before",
+            "target": "Adding things before"
+        },
+        {
+            "type": "title",
+            "source": "Adding things after",
+            "target": "Adding things after"
+        },
+        {
+            "type": "title",
+            "source": "2.3.14.3 Custom image/animation",
+            "target": "2.3.14.3 Custom image/animation"
+        },
+        {
+            "type": "title",
+            "source": "Custom loading page image/animation",
+            "target": "Custom loading page image/animation"
+        },
+        {
+            "type": "title",
+            "source": "Image caption",
+            "target": "Image caption"
+        },
+        {
+            "type": "title",
+            "source": "2.3.14.4 Custom image/animation with position changing",
+            "target": "2.3.14.4 Custom image/animation with position changing"
+        },
+        {
+            "type": "title",
+            "source": "High contrast background",
+            "target": "High contrast background"
+        },
+        {
+            "type": "title",
+            "source": "2.3.15 Tags",
+            "target": "2.3.15 Tags"
+        },
+        {
+            "type": "title",
+            "source": "Cancel click the tag to trigger auto-jump",
+            "target": "Cancel click the tag to trigger auto-jump"
+        },
+        {
+            "type": "description",
+            "source": "You can jump by clicking on the # marks in the tags",
+            "target": "You can jump by clicking on the # marks in the tags"
+        },
+        {
+            "type": "title",
+            "source": "Label superscript in the header",
+            "target": "Label superscript in the header"
+        },
+        {
+            "type": "title",
+            "source": "Tag Style",
+            "target": "Tag Style"
+        },
+        {
+            "type": "label",
+            "source": "Rainbow tag",
+            "target": "Rainbow tag"
+        },
+        {
+            "type": "label",
+            "source": "Rainbow tag alt (No influence on emojis)",
+            "target": "Rainbow tag alt (No influence on emojis)"
+        },
+        {
+            "type": "label",
+            "source": "Outlined",
+            "target": "Outlined"
+        },
+        {
+            "type": "label",
+            "source": "Clear",
+            "target": "Clear"
+        },
+        {
+            "type": "label",
+            "source": "Customised colorful tag",
+            "target": "Customised colorful tag"
+        },
+        {
+            "type": "title",
+            "source": "2.3.15.1 Customised colorful tag",
+            "target": "2.3.15.1 Customised colorful tag"
+        },
+        {
+            "type": "title",
+            "source": "Tag-1",
+            "target": "Tag-1"
+        },
+        {
+            "type": "title",
+            "source": "Tag-2",
+            "target": "Tag-2"
+        },
+        {
+            "type": "title",
+            "source": "Tag-3",
+            "target": "Tag-3"
+        },
+        {
+            "type": "title",
+            "source": "Tag-4",
+            "target": "Tag-4"
+        },
+        {
+            "type": "title",
+            "source": "Tag-5",
+            "target": "Tag-5"
+        },
+        {
+            "type": "title",
+            "source": "Tag text",
+            "target": "Tag text"
+        },
+        {
+            "type": "title",
+            "source": "2.3.15.2 Outlined",
+            "target": "2.3.15.2 Outlined"
+        },
+        {
+            "type": "title",
+            "source": "Tag border width",
+            "target": "Tag border width"
+        },
+        {
+            "type": "title",
+            "source": "2.3.16 Setting, Menu, Option panes",
+            "target": "2.3.16 Setting, Menu, Option panes"
+        },
+        {
+            "type": "title",
+            "source": "Pane style",
+            "target": "Pane style"
+        },
+        {
+            "type": "label",
+            "source": "Frosted Glass",
+            "target": "Frosted Glass"
+        },
+        {
+            "type": "label",
+            "source": "Traditional",
+            "target": "Traditional"
+        },
+        {
+            "type": "label",
+            "source": "Translucent (only for setting panel)",
+            "target": "Translucent (only for setting panel)"
+        },
+        {
+            "type": "title",
+            "source": "2.3.17 Titlebar style",
+            "target": "2.3.17 Titlebar style"
+        },
+        {
+            "type": "title",
+            "source": "Colorful titlebar",
+            "target": "Colorful titlebar"
+        },
+        {
+            "type": "title",
+            "source": "Titlebar background color",
+            "target": "Titlebar background color"
+        },
+        {
+            "type": "title",
+            "source": "Titlebar close button",
+            "target": "Titlebar close button"
+        },
+        {
+            "type": "label",
+            "source": "Reversal",
+            "target": "Reversal"
+        },
+        {
+            "type": "title",
+            "source": "Hide text in title bar",
+            "target": "Hide text in title bar"
+        },
+        {
+            "type": "title",
+            "source": "Auto-hide title bar close button",
+            "target": "Auto-hide title bar close button"
+        },
+        {
+            "type": "title",
+            "source": "2.3.18 Outline",
+            "target": "2.3.18 Outline"
+        },
+        {
+            "type": "title",
+            "source": "Outline style",
+            "target": "Outline style"
+        },
+        {
+            "type": "label",
+            "source": "Logseq",
+            "target": "Logseq"
+        },
+        {
+            "type": "title",
+            "source": "Nowrap",
+            "target": "Nowrap"
+        },
+        {
+            "type": "title",
+            "source": "2.3.19 Prompt (ctrl p)",
+            "target": "2.3.19 Prompt (ctrl p)"
+        },
+        {
+            "type": "title",
+            "source": "Prompt styles",
+            "target": "Prompt styles"
+        },
+        {
+            "type": "label",
+            "source": "Fancy prompt 1",
+            "target": "Fancy prompt 1"
+        },
+        {
+            "type": "label",
+            "source": "Slide Up Large",
+            "target": "Slide Up Large"
+        },
+        {
+            "type": "label",
+            "source": "Quick Scale Down",
+            "target": "Quick Scale Down"
+        },
+        {
+            "type": "label",
+            "source": "Blow Up Modal",
+            "target": "Blow Up Modal"
+        },
+        {
+            "type": "label",
+            "source": "Road Runner In",
+            "target": "Road Runner In"
+        },
+        {
+            "type": "label",
+            "source": "Road Runner Out",
+            "target": "Road Runner Out"
+        },
+        {
+            "type": "label",
+            "source": "Unfold In",
+            "target": "Unfold In"
+        },
+        {
+            "type": "label",
+            "source": "Pop-swirl",
+            "target": "Pop-swirl"
+        },
+        {
+            "type": "title",
+            "source": "2.3.20 Stack tabs",
+            "target": "2.3.20 Stack tabs"
+        },
+        {
+            "type": "title",
+            "source": "Text orientation styles",
+            "target": "Text orientation styles"
+        },
+        {
+            "type": "label",
+            "source": "Mixed orientation",
+            "target": "Mixed orientation"
+        },
+        {
+            "type": "title",
+            "source": "stack tabs background blur radius",
+            "target": "stack tabs background blur radius"
+        },
+        {
+            "type": "title",
+            "source": "2.3.21 Tabs",
+            "target": "2.3.21 Tabs"
+        },
+        {
+            "type": "title",
+            "source": "Tab style",
+            "target": "Tab style"
+        },
+        {
+            "type": "label",
+            "source": "Underline",
+            "target": "Underline"
+        },
+        {
+            "type": "label",
+            "source": "Safari-style",
+            "target": "Safari-style"
+        },
+        {
+            "type": "label",
+            "source": "Transparent-style",
+            "target": "Transparent-style"
+        },
+        {
+            "type": "title",
+            "source": "2.3.21 Mermaid",
+            "target": "2.3.21 Mermaid"
+        },
+        {
+            "type": "title",
+            "source": "Resizable mermaid in reading mode",
+            "target": "Resizable mermaid in reading mode"
+        },
+        {
+            "type": "title",
+            "source": "2.3.23 Canvas",
+            "target": "2.3.23 Canvas"
+        },
+        {
+            "type": "title",
+            "source": "Canvas card focus mode (Unavailable)",
+            "target": "Canvas card focus mode (Unavailable)"
+        },
+        {
+            "type": "description",
+            "source": "clicking on a card will highlight all cards and lines of the same color on the canvas When turned on",
+            "target": "clicking on a card will highlight all cards and lines of the same color on the canvas When turned on"
+        },
+        {
+            "type": "title",
+            "source": "Canvas card size for \"Zoom to selection\"",
+            "target": "Canvas card size for \"Zoom to selection\""
+        },
+        {
+            "type": "title",
+            "source": "Canvas card text center align",
+            "target": "Canvas card text center align"
+        },
+        {
+            "type": "title",
+            "source": "Canvas card opacity",
+            "target": "Canvas card opacity"
+        },
+        {
+            "type": "title",
+            "source": "2.3.23.1 canvas workplace background settings",
+            "target": "2.3.23.1 canvas workplace background settings"
+        },
+        {
+            "type": "title",
+            "source": "Toggle canvas grid",
+            "target": "Toggle canvas grid"
+        },
+        {
+            "type": "title",
+            "source": "Toggle canvas workplace background",
+            "target": "Toggle canvas workplace background"
+        },
+        {
+            "type": "title",
+            "source": "Custom canvas background color",
+            "target": "Custom canvas background color"
+        },
+        {
+            "type": "title",
+            "source": "2.3.24 Tab stack",
+            "target": "2.3.24 Tab stack"
+        },
+        {
+            "type": "title",
+            "source": "Tag stacked pane with",
+            "target": "Tag stacked pane with"
+        },
+        {
+            "type": "title",
+            "source": "Spine width",
+            "target": "Spine width"
+        },
+        {
+            "type": "title",
+            "source": "2.3.25 Highlights (==xx==)",
+            "target": "2.3.25 Highlights (==xx==)"
+        },
+        {
+            "type": "title",
+            "source": "Highlight text color",
+            "target": "Highlight text color"
+        },
+        {
+            "type": "description",
+            "source": "==XXXXX== color",
+            "target": "==XXXXX== color"
+        },
+        {
+            "type": "title",
+            "source": "Highlight styles",
+            "target": "Highlight styles"
+        },
+        {
+            "type": "label",
+            "source": "All rounded corners (@Mon & @TheGodOfKing)",
+            "target": "All rounded corners (@Mon & @TheGodOfKing)"
+        },
+        {
+            "type": "label",
+            "source": "No rounded corners",
+            "target": "No rounded corners"
+        },
+        {
+            "type": "title",
+            "source": "Highlight background color",
+            "target": "Highlight background color"
+        },
+        {
+            "type": "title",
+            "source": "Hue (Light mode)",
+            "target": "Hue (Light mode)"
+        },
+        {
+            "type": "description",
+            "source": "To adjust Hue",
+            "target": "To adjust Hue"
+        },
+        {
+            "type": "title",
+            "source": "Saturation (Light mode)",
+            "target": "Saturation (Light mode)"
+        },
+        {
+            "type": "description",
+            "source": "To adjust Saturation",
+            "target": "To adjust Saturation"
+        },
+        {
+            "type": "title",
+            "source": "Lightness (Light mode)",
+            "target": "Lightness (Light mode)"
+        },
+        {
+            "type": "description",
+            "source": "To adjust Lightness",
+            "target": "To adjust Lightness"
+        },
+        {
+            "type": "title",
+            "source": "Opacity (Light mode)",
+            "target": "Opacity (Light mode)"
+        },
+        {
+            "type": "description",
+            "source": "To adjust Alpha",
+            "target": "To adjust Alpha"
+        },
+        {
+            "type": "title",
+            "source": "Hue (Dark mode)",
+            "target": "Hue (Dark mode)"
+        },
+        {
+            "type": "title",
+            "source": "Saturation (Dark mode)",
+            "target": "Saturation (Dark mode)"
+        },
+        {
+            "type": "title",
+            "source": "Lightness (Dark mode)",
+            "target": "Lightness (Dark mode)"
+        },
+        {
+            "type": "title",
+            "source": "Opacity (Dark mode)",
+            "target": "Opacity (Dark mode)"
+        },
+        {
+            "type": "title",
+            "source": "Colorful highlight setting",
+            "target": "Colorful highlight setting"
+        },
+        {
+            "type": "title",
+            "source": "Deactivate colorful-highlight",
+            "target": "Deactivate colorful-highlight"
+        },
+        {
+            "type": "description",
+            "source": "In this theme, *==xxx==*, **==xxx==** and ***==xxx==*** possese different background colors by default, active this option to cancel it. Even with this option actived, you can still type \"cssclass：colorful-highlight\" into yaml to make the colorful-highlight style available to individual documents",
+            "target": "In this theme, *==xxx==*, **==xxx==** and ***==xxx==*** possese different background colors by default, active this option to cancel it. Even with this option actived, you can still type \"cssclass：colorful-highlight\" into yaml to make the colorful-highlight style available to individual documents"
+        },
+        {
+            "type": "title",
+            "source": "Highlight background color Plus 1 (*==xx==*)",
+            "target": "Highlight background color Plus 1 (*==xx==*)"
+        },
+        {
+            "type": "title",
+            "source": "Highlight text color Plus 1 (*==xx==*)",
+            "target": "Highlight text color Plus 1 (*==xx==*)"
+        },
+        {
+            "type": "title",
+            "source": "Font weight of highlight text Plus 1 (*==xx==*)",
+            "target": "Font weight of highlight text Plus 1 (*==xx==*)"
+        },
+        {
+            "type": "description",
+            "source": "Can type normal, bold, lighter or bolder to change the font weight",
+            "target": "Can type normal, bold, lighter or bolder to change the font weight"
+        },
+        {
+            "type": "title",
+            "source": "Highlight background color Plus 2 (**==xx==**)",
+            "target": "Highlight background color Plus 2 (**==xx==**)"
+        },
+        {
+            "type": "title",
+            "source": "Highlight text color Plus 2 (**==xx==**)",
+            "target": "Highlight text color Plus 2 (**==xx==**)"
+        },
+        {
+            "type": "title",
+            "source": "Font weight of highlight text Plus 2 (**==xx==**)",
+            "target": "Font weight of highlight text Plus 2 (**==xx==**)"
+        },
+        {
+            "type": "title",
+            "source": "Highlight background color Plus 3 (***==xx==***)",
+            "target": "Highlight background color Plus 3 (***==xx==***)"
+        },
+        {
+            "type": "title",
+            "source": "Highlight text color Plus 3 (***==xx==***)",
+            "target": "Highlight text color Plus 3 (***==xx==***)"
+        },
+        {
+            "type": "title",
+            "source": "Font weight of highlight text Plus 3 (***==xx==***)",
+            "target": "Font weight of highlight text Plus 3 (***==xx==***)"
+        },
+        {
+            "type": "title",
+            "source": "2.3.26 Popover",
+            "target": "2.3.26 Popover"
+        },
+        {
+            "type": "title",
+            "source": "Hover popover background color",
+            "target": "Hover popover background color"
+        },
+        {
+            "type": "description",
+            "source": "--background-popover",
+            "target": "--background-popover"
+        },
+        {
+            "type": "title",
+            "source": "Popover width",
+            "target": "Popover width"
+        },
+        {
+            "type": "title",
+            "source": "Popover height",
+            "target": "Popover height"
+        },
+        {
+            "type": "title",
+            "source": "3. For Plugins",
+            "target": "3. For Plugins"
+        },
+        {
+            "type": "title",
+            "source": "3.1 Admonition & Callout style",
+            "target": "3.1 Admonition & Callout style"
+        },
+        {
+            "type": "title",
+            "source": "Admontion codebock and Callout background",
+            "target": "Admontion codebock and Callout background"
+        },
+        {
+            "type": "title",
+            "source": "The same as the title color",
+            "target": "The same as the title color"
+        },
+        {
+            "type": "title",
+            "source": "callout style settings",
+            "target": "callout style settings"
+        },
+        {
+            "type": "label",
+            "source": "Shade",
+            "target": "Shade"
+        },
+        {
+            "type": "title",
+            "source": "Full-width layout for callout & admonition",
+            "target": "Full-width layout for callout & admonition"
+        },
+        {
+            "type": "title",
+            "source": "Admonition special style support",
+            "target": "Admonition special style support"
+        },
+        {
+            "type": "title",
+            "source": "3.2 Calendar",
+            "target": "3.2 Calendar"
+        },
+        {
+            "type": "title",
+            "source": "Toggle shadow of current date",
+            "target": "Toggle shadow of current date"
+        },
+        {
+            "type": "title",
+            "source": "Transparent calendar background",
+            "target": "Transparent calendar background"
+        },
+        {
+            "type": "title",
+            "source": "Calendar",
+            "target": "Calendar"
+        },
+        {
+            "type": "label",
+            "source": "Style 1",
+            "target": "Style 1"
+        },
+        {
+            "type": "label",
+            "source": "Style 2",
+            "target": "Style 2"
+        },
+        {
+            "type": "title",
+            "source": "3.3 Checklist plugin",
+            "target": "3.3 Checklist plugin"
+        },
+        {
+            "type": "title",
+            "source": "Rainbow checklist",
+            "target": "Rainbow checklist"
+        },
+        {
+            "type": "title",
+            "source": "3.4 Kanban",
+            "target": "3.4 Kanban"
+        },
+        {
+            "type": "title",
+            "source": "Static",
+            "target": "Static"
+        },
+        {
+            "type": "label",
+            "source": "All color (instead of images in light mode)",
+            "target": "All color (instead of images in light mode)"
+        },
+        {
+            "type": "label",
+            "source": "All image-1",
+            "target": "All image-1"
+        },
+        {
+            "type": "label",
+            "source": "All image-2 abstract",
+            "target": "All image-2 abstract"
+        },
+        {
+            "type": "label",
+            "source": "Plain",
+            "target": "Plain"
+        },
+        {
+            "type": "label",
+            "source": "Little color",
+            "target": "Little color"
+        },
+        {
+            "type": "title",
+            "source": "Dynamic",
+            "target": "Dynamic"
+        },
+        {
+            "type": "label",
+            "source": "None",
+            "target": "None"
+        },
+        {
+            "type": "label",
+            "source": "Neon-1",
+            "target": "Neon-1"
+        },
+        {
+            "type": "label",
+            "source": "Neon-2",
+            "target": "Neon-2"
+        },
+        {
+            "type": "label",
+            "source": "Neon-3",
+            "target": "Neon-3"
+        },
+        {
+            "type": "title",
+            "source": "3.5 Buttons",
+            "target": "3.5 Buttons"
+        },
+        {
+            "type": "title",
+            "source": "Buttons special style support",
+            "target": "Buttons special style support"
+        },
+        {
+            "type": "title",
+            "source": "3.6 Dataview",
+            "target": "3.6 Dataview"
+        },
+        {
+            "type": "title",
+            "source": "3.6.1 Dataview list",
+            "target": "3.6.1 Dataview list"
+        },
+        {
+            "type": "title",
+            "source": "Style",
+            "target": "Style"
+        },
+        {
+            "type": "label",
+            "source": "Pac-man",
+            "target": "Pac-man"
+        },
+        {
+            "type": "label",
+            "source": "Normal",
+            "target": "Normal"
+        },
+        {
+            "type": "title",
+            "source": "3.6.2 Dataview table",
+            "target": "3.6.2 Dataview table"
+        },
+        {
+            "type": "title",
+            "source": "Dataview table format",
+            "target": "Dataview table format"
+        },
+        {
+            "type": "title",
+            "source": "Automatically add serial numbers to tables",
+            "target": "Automatically add serial numbers to tables"
+        },
+        {
+            "type": "title",
+            "source": "Full-width dvtable display",
+            "target": "Full-width dvtable display"
+        },
+        {
+            "type": "title",
+            "source": "3.7 Dialogue & Chatview",
+            "target": "3.7 Dialogue & Chatview"
+        },
+        {
+            "type": "title",
+            "source": "Dialogue & Chatview Style",
+            "target": "Dialogue & Chatview Style"
+        },
+        {
+            "type": "description",
+            "source": "Wechat options is for ’titleMode：all‘ ，chat options is for  ‘titleMode：first’",
+            "target": "Wechat options is for ’titleMode：all‘ ，chat options is for  ‘titleMode：first’"
+        },
+        {
+            "type": "label",
+            "source": "Wechat",
+            "target": "Wechat"
+        },
+        {
+            "type": "label",
+            "source": "Chat",
+            "target": "Chat"
+        },
+        {
+            "type": "title",
+            "source": "3.9 ✏️Thino",
+            "target": "3.9 ✏️Thino"
+        },
+        {
+            "type": "description",
+            "source": "Adapted from @Quorafind's Thino Plugin",
+            "target": "Adapted from @Quorafind's Thino Plugin"
+        },
+        {
+            "type": "title",
+            "source": "3.9.1 Thino  style",
+            "target": "3.9.1 Thino  style"
+        },
+        {
+            "type": "title",
+            "source": "Put input box to bottom",
+            "target": "Put input box to bottom"
+        },
+        {
+            "type": "title",
+            "source": "hider Thino header",
+            "target": "hider Thino header"
+        },
+        {
+            "type": "title",
+            "source": "add Thino list scroll",
+            "target": "add Thino list scroll"
+        },
+        {
+            "type": "title",
+            "source": "hide thino modern moment banner",
+            "target": "hide thino modern moment banner"
+        },
+        {
+            "type": "title",
+            "source": "moment banner gradient",
+            "target": "moment banner gradient"
+        },
+        {
+            "type": "title",
+            "source": "thino style",
+            "target": "thino style"
+        },
+        {
+            "type": "label",
+            "source": "default",
+            "target": "default"
+        },
+        {
+            "type": "label",
+            "source": "Frosted Style(Transparent)",
+            "target": "Frosted Style(Transparent)"
+        },
+        {
+            "type": "label",
+            "source": "Frosted Style",
+            "target": "Frosted Style"
+        },
+        {
+            "type": "title",
+            "source": "custom thino background",
+            "target": "custom thino background"
+        },
+        {
+            "type": "label",
+            "source": "custom color",
+            "target": "custom color"
+        },
+        {
+            "type": "label",
+            "source": "Custom background img",
+            "target": "Custom background img"
+        },
+        {
+            "type": "title",
+            "source": "thino  background color",
+            "target": "thino  background color"
+        },
+        {
+            "type": "title",
+            "source": "Custom thino background light (url)",
+            "target": "Custom thino background light (url)"
+        },
+        {
+            "type": "title",
+            "source": "Custom thino background dark (url)",
+            "target": "Custom thino background dark (url)"
+        },
+        {
+            "type": "title",
+            "source": "3.9.2 Thino share style",
+            "target": "3.9.2 Thino share style"
+        },
+        {
+            "type": "title",
+            "source": "share thino style",
+            "target": "share thino style"
+        },
+        {
+            "type": "label",
+            "source": "Same as workspace background",
+            "target": "Same as workspace background"
+        },
+        {
+            "type": "label",
+            "source": "Same as  thino  background",
+            "target": "Same as  thino  background"
+        },
+        {
+            "type": "label",
+            "source": "Custom share background",
+            "target": "Custom share background"
+        },
+        {
+            "type": "title",
+            "source": "Share Card Background Opacity",
+            "target": "Share Card Background Opacity"
+        },
+        {
+            "type": "title",
+            "source": "Share Card Background color（Gradient Mode）",
+            "target": "Share Card Background color（Gradient Mode）"
+        },
+        {
+            "type": "title",
+            "source": "Custom thino share background light (url)",
+            "target": "Custom thino share background light (url)"
+        },
+        {
+            "type": "title",
+            "source": "Custom thino share background dark (url)",
+            "target": "Custom thino share background dark (url)"
+        },
+        {
+            "type": "title",
+            "source": "3.10 backlinks panel",
+            "target": "3.10 backlinks panel"
+        },
+        {
+            "type": "title",
+            "source": "Full-width backlinks panel display",
+            "target": "Full-width backlinks panel display"
+        },
+        {
+            "type": "title",
+            "source": "3.11 Quiet outline",
+            "target": "3.11 Quiet outline"
+        },
+        {
+            "type": "title",
+            "source": "Optimize quiet-outline plugin",
+            "target": "Optimize quiet-outline plugin"
+        },
+        {
+            "type": "title",
+            "source": "4. Built-in style intro",
+            "target": "4. Built-in style intro"
+        },
+        {
+            "type": "description",
+            "source": "There are some built-in CSS classes that should be manually declared in the YAML area. Details refer to the TIPS demo vault for Blue Topaz on Github.",
+            "target": "There are some built-in CSS classes that should be manually declared in the YAML area. Details refer to the TIPS demo vault for Blue Topaz on Github."
+        },
+        {
+            "type": "title",
+            "source": "Pseudo-kanban",
+            "target": "Pseudo-kanban"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：kanban❗ A kind of kanban-liked style for unordered lists. (Adapted from Spectrum theme by @Wiktoria Mielcarek)",
+            "target": "❗cssclass：kanban❗ A kind of kanban-liked style for unordered lists. (Adapted from Spectrum theme by @Wiktoria Mielcarek)"
+        },
+        {
+            "type": "title",
+            "source": "Simple pseudo-kanban",
+            "target": "Simple pseudo-kanban"
+        },
+        {
+            "type": "description",
+            "source": "Remove colors of pseudo-kanban",
+            "target": "Remove colors of pseudo-kanban"
+        },
+        {
+            "type": "title",
+            "source": "Remove shadow of pseudo-kanban",
+            "target": "Remove shadow of pseudo-kanban"
+        },
+        {
+            "type": "title",
+            "source": "Colorful pseudo-kanban",
+            "target": "Colorful pseudo-kanban"
+        },
+        {
+            "type": "title",
+            "source": "Blur radius (For Frosted Glass Style)",
+            "target": "Blur radius (For Frosted Glass Style)"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 1",
+            "target": "pseudo-kanban color 1"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 2",
+            "target": "pseudo-kanban color 2"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 3",
+            "target": "pseudo-kanban color 3"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 4",
+            "target": "pseudo-kanban color 4"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 5",
+            "target": "pseudo-kanban color 5"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 6",
+            "target": "pseudo-kanban color 6"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 7",
+            "target": "pseudo-kanban color 7"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 8",
+            "target": "pseudo-kanban color 8"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban-card subitem color",
+            "target": "pseudo-kanban-card subitem color"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban-border color",
+            "target": "pseudo-kanban-border color"
+        },
+        {
+            "type": "title",
+            "source": "Code Wrap",
+            "target": "Code Wrap"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：code-wrap❗ Can be used to wrap code in code blocks for individual .md file",
+            "target": "❗cssclass：code-wrap❗ Can be used to wrap code in code blocks for individual .md file"
+        },
+        {
+            "type": "title",
+            "source": "List in a horizontal row (inline list)",
+            "target": "List in a horizontal row (inline list)"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：inline-list❗ To make the list show in a horizontal row. Meanwhile, it makes the list show inline which can be used with inline images (like ![[xxx.jpg|inlineR]])",
+            "target": "❗cssclass：inline-list❗ To make the list show in a horizontal row. Meanwhile, it makes the list show inline which can be used with inline images (like ![[xxx.jpg|inlineR]])"
+        },
+        {
+            "type": "title",
+            "source": "Image grid",
+            "target": "Image grid"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：img-grid❗ To make images arrange in a grid in the preview mode. (adapted from https://github.com/iEchoxu/obsidian_orange/blob/main/.obsidian/snippets/image-grid.css)",
+            "target": "❗cssclass：img-grid❗ To make images arrange in a grid in the preview mode. (adapted from https://github.com/iEchoxu/obsidian_orange/blob/main/.obsidian/snippets/image-grid.css)"
+        },
+        {
+            "type": "title",
+            "source": "Eisenhower matrix",
+            "target": "Eisenhower matrix"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：matrix❗ Usage https://forum.obsidian.md/t/theme-spectrum-version-1-0-0-and-resise-graphs-controls/12688/34 (Adapted from Spectrum theme by @Wiktoria Mielcarek)",
+            "target": "❗cssclass：matrix❗ Usage https://forum.obsidian.md/t/theme-spectrum-version-1-0-0-and-resise-graphs-controls/12688/34 (Adapted from Spectrum theme by @Wiktoria Mielcarek)"
+        },
+        {
+            "type": "title",
+            "source": "full-width layout",
+            "target": "full-width layout"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：fullwidth  wide-dataview wide-table wide-callout  wide-backlinks❗ (Adapted from https://github.com/efemkay @ Faiz Khuzaimah)",
+            "target": "❗cssclass：fullwidth  wide-dataview wide-table wide-callout  wide-backlinks❗ (Adapted from https://github.com/efemkay @ Faiz Khuzaimah)"
+        },
+        {
+            "type": "title",
+            "source": "Supported by Topaz Community 😁",
+            "target": "Supported by Topaz Community 😁"
+        },
+        {
+            "type": "title",
+            "source": "Support me",
+            "target": "Support me"
+        },
+        {
+            "type": "description",
+            "source": "[https://www.buymeacoffee.com/whyi](https://www.buymeacoffee.com/whyi)",
+            "target": "[https://www.buymeacoffee.com/whyi](https://www.buymeacoffee.com/whyi)"
+        },
+        {
+            "type": "markdown",
+            "source": "true",
+            "target": "true"
+        },
+        {
+            "type": "title",
+            "source": "Star the theme",
+            "target": "Star the theme"
+        },
+        {
+            "type": "description",
+            "source": "[https://github.com/PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)",
+            "target": "[https://github.com/PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)"
+        },
+        {
+            "type": "name",
+            "source": "🥑Blue Topaz Codebox Settings",
+            "target": "🥑Blue Topaz Codebox Settings"
+        },
+        {
+            "type": "title",
+            "source": "Codebox highlighting",
+            "target": "Codebox highlighting"
+        },
+        {
+            "type": "title",
+            "source": "Codebox highlighting schemes",
+            "target": "Codebox highlighting schemes"
+        },
+        {
+            "type": "label",
+            "source": "bt-default",
+            "target": "bt-default"
+        },
+        {
+            "type": "label",
+            "source": "Solarized Light",
+            "target": "Solarized Light"
+        },
+        {
+            "type": "label",
+            "source": "Material Palenight",
+            "target": "Material Palenight"
+        },
+        {
+            "type": "label",
+            "source": "Dracula",
+            "target": "Dracula"
+        },
+        {
+            "type": "label",
+            "source": "Gruvbox Dark",
+            "target": "Gruvbox Dark"
+        },
+        {
+            "type": "label",
+            "source": "monokai",
+            "target": "monokai"
+        },
+        {
+            "type": "label",
+            "source": "sublime",
+            "target": "sublime"
+        },
+        {
+            "type": "title",
+            "source": "Codebox style settings",
+            "target": "Codebox style settings"
+        },
+        {
+            "type": "title",
+            "source": "Mute codebox indent line",
+            "target": "Mute codebox indent line"
+        },
+        {
+            "type": "title",
+            "source": "Code box showing line numbers (Editing mode)",
+            "target": "Code box showing line numbers (Editing mode)"
+        },
+        {
+            "type": "description",
+            "source": "csslass declares code-line-number to be available for the current document",
+            "target": "csslass declares code-line-number to be available for the current document"
+        },
+        {
+            "type": "title",
+            "source": "Code wrap (Reading mode)",
+            "target": "Code wrap (Reading mode)"
+        },
+        {
+            "type": "title",
+            "source": "Toggle showing types of code languages",
+            "target": "Toggle showing types of code languages"
+        },
+        {
+            "type": "title",
+            "source": "Non-wrap Codebox (Live preview)",
+            "target": "Non-wrap Codebox (Live preview)"
+        },
+        {
+            "type": "title",
+            "source": "Letter spacing for code",
+            "target": "Letter spacing for code"
+        },
+        {
+            "type": "title",
+            "source": "Codebox style",
+            "target": "Codebox style"
+        },
+        {
+            "type": "title",
+            "source": "Codebox highlighting background colors",
+            "target": "Codebox highlighting background colors"
+        },
+        {
+            "type": "title",
+            "source": "Codebox background color",
+            "target": "Codebox background color"
+        },
+        {
+            "type": "title",
+            "source": "Mute codebox active line",
+            "target": "Mute codebox active line"
+        },
+        {
+            "type": "title",
+            "source": "Codebox active line background color",
+            "target": "Codebox active line background color"
+        },
+        {
+            "type": "title",
+            "source": "Codebox selection line background color",
+            "target": "Codebox selection line background color"
+        },
+        {
+            "type": "title",
+            "source": "Custom codebox syntax highlighting colors",
+            "target": "Custom codebox syntax highlighting colors"
+        },
+        {
+            "type": "title",
+            "source": "Code block normal color",
+            "target": "Code block normal color"
+        },
+        {
+            "type": "title",
+            "source": "Code block keyword color",
+            "target": "Code block keyword color"
+        },
+        {
+            "type": "title",
+            "source": "Code block number color",
+            "target": "Code block number color"
+        },
+        {
+            "type": "title",
+            "source": "Code block type color",
+            "target": "Code block type color"
+        },
+        {
+            "type": "title",
+            "source": "Code block property color",
+            "target": "Code block property color"
+        },
+        {
+            "type": "title",
+            "source": "Code block variable color",
+            "target": "Code block variable color"
+        },
+        {
+            "type": "title",
+            "source": "Code block variable-2 color",
+            "target": "Code block variable-2 color"
+        },
+        {
+            "type": "title",
+            "source": "Code block variable-3 color",
+            "target": "Code block variable-3 color"
+        },
+        {
+            "type": "title",
+            "source": "Code block qualifier color",
+            "target": "Code block qualifier color"
+        },
+        {
+            "type": "title",
+            "source": "Code block operator color",
+            "target": "Code block operator color"
+        },
+        {
+            "type": "title",
+            "source": "Code block hr color",
+            "target": "Code block hr color"
+        },
+        {
+            "type": "title",
+            "source": "Code block builtin color",
+            "target": "Code block builtin color"
+        },
+        {
+            "type": "title",
+            "source": "Code block tag color",
+            "target": "Code block tag color"
+        },
+        {
+            "type": "title",
+            "source": "Code block string-2 color",
+            "target": "Code block string-2 color"
+        },
+        {
+            "type": "description",
+            "source": "class-name",
+            "target": "class-name"
+        },
+        {
+            "type": "title",
+            "source": "Code block punctuation color",
+            "target": "Code block punctuation color"
+        },
+        {
+            "type": "description",
+            "source": "code punctuation, bracket color",
+            "target": "code punctuation, bracket color"
+        },
+        {
+            "type": "title",
+            "source": "Code block comment color",
+            "target": "Code block comment color"
+        },
+        {
+            "type": "title",
+            "source": "Code block string color",
+            "target": "Code block string color"
+        },
+        {
+            "type": "title",
+            "source": "Code block attribute color",
+            "target": "Code block attribute color"
+        },
+        {
+            "type": "title",
+            "source": "Code block function color",
+            "target": "Code block function color"
+        },
+        {
+            "type": "title",
+            "source": "Code block important color",
+            "target": "Code block important color"
+        },
+        {
+            "type": "title",
+            "source": "Code block atom color",
+            "target": "Code block atom color"
+        },
+        {
+            "type": "description",
+            "source": "Frontmatter keys color",
+            "target": "Frontmatter keys color"
+        },
+        {
+            "type": "title",
+            "source": "Code block meta color",
+            "target": "Code block meta color"
+        },
+        {
+            "type": "description",
+            "source": "Frontmatter punctuation color",
+            "target": "Frontmatter punctuation color"
+        },
+        {
+            "type": "title",
+            "source": "Code block language color",
+            "target": "Code block language color"
+        },
+        {
+            "type": "title",
+            "source": "Inline code background color",
+            "target": "Inline code background color"
+        },
+        {
+            "type": "title",
+            "source": "Inline code color",
+            "target": "Inline code color"
+        },
+        {
+            "type": "title",
+            "source": "Font weight of inline code",
+            "target": "Font weight of inline code"
+        }
+    ]
+}

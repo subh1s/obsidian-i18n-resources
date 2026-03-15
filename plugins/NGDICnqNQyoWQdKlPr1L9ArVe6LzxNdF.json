@@ -1,0 +1,3716 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "quickadd",
+        "version": "1.0.0",
+        "title": "QuickAdd",
+        "description": "QuickAdd Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "2.12.0",
+        "author": "545"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerHTML",
+                    "source": "Define reusable snippets referenced as <code>{{GLOBAL_VAR:&lt;name&gt;}}</code>. Snippets support other QuickAdd tokens and expand before VALUE/VDATE/etc.",
+                    "target": "Define reusable snippets referenced as <code>{{GLOBAL_VAR:&lt;name&gt;}}</code>. Snippets support other QuickAdd tokens and expand before VALUE/VDATE/etc."
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerHTML",
+                    "source": "<div class=\"qa-gv__cell qa-gv__name\">Name</div> <div class=\"qa-gv__cell qa-gv__value\">Value</div> <div class=\"qa-gv__cell qa-gv__ops svelte-1k43yoc\">Actions</div>",
+                    "target": "<div class=\"qa-gv__cell qa-gv__name\">Name</div> <div class=\"qa-gv__cell qa-gv__value\">Value</div> <div class=\"qa-gv__cell qa-gv__ops svelte-1k43yoc\">Actions</div>"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerHTML",
+                    "source": "<h2>Export QuickAdd Package</h2> <p class=\"svelte-iqd8ho\">Select choices to bundle. Dependencies are added automatically.</p>",
+                    "target": "<h2>Export QuickAdd Package</h2> <p class=\"svelte-iqd8ho\">Select choices to bundle. Dependencies are added automatically.</p>"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerHTML",
+                    "source": "<tr class=\"svelte-x9dt2q\"><th class=\"svelte-x9dt2q\">Name</th> <th class=\"svelte-x9dt2q\">Location</th> <th class=\"svelte-x9dt2q\">Existing</th> <th class=\"svelte-x9dt2q\">Action</th></tr>",
+                    "target": "<tr class=\"svelte-x9dt2q\"><th class=\"svelte-x9dt2q\">Name</th> <th class=\"svelte-x9dt2q\">Location</th> <th class=\"svelte-x9dt2q\">Existing</th> <th class=\"svelte-x9dt2q\">Action</th></tr>"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerText",
+                    "source": "Loading preview…",
+                    "target": "Loading preview…"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerText",
+                    "source": "Preview unavailable",
+                    "target": "Preview unavailable"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "捕获到活动文件",
+                    "target": "捕获到活动文件"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Loading preview…",
+                    "target": "Loading preview…"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Preview unavailable",
+                    "target": "Preview unavailable"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Open File Command Settings",
+                    "target": "Open File Command Settings"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "模板",
+                    "target": "模板"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "捕获",
+                    "target": "捕获"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "组合",
+                    "target": "组合"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "添加选项",
+                    "target": "添加选项"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "AI助手",
+                    "target": "AI助手"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Global Variables",
+                    "target": "Global Variables"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Add variable",
+                    "target": "Add variable"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "No choices match the current filter.",
+                    "target": "No choices match the current filter."
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Missing dependencies detected",
+                    "target": "Missing dependencies detected"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Missing assets:",
+                    "target": "Missing assets:"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Select visible",
+                    "target": "Select visible"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Clear selection",
+                    "target": "Clear selection"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Package summary",
+                    "target": "Package summary"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Selected choices",
+                    "target": "Selected choices"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Total packaged",
+                    "target": "Total packaged"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Save to file",
+                    "target": "Save to file"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Analyzing package…",
+                    "target": "Analyzing package…"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "QuickAdd version:",
+                    "target": "QuickAdd version:"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Created:",
+                    "target": "Created:"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Choices:",
+                    "target": "Choices:"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Assets:",
+                    "target": "Assets:"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Choice decisions",
+                    "target": "Choice decisions"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Asset decisions",
+                    "target": "Asset decisions"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "No choices found in this package.",
+                    "target": "No choices found in this package."
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "No additional assets bundled with this package.",
+                    "target": "No additional assets bundled with this package."
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Destination path",
+                    "target": "Destination path"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Last import",
+                    "target": "Last import"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Paste package JSON",
+                    "target": "Paste package JSON"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Enabled (requires active file)",
+                    "target": "Enabled (requires active file)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Enabled (skip if no active file)",
+                    "target": "Enabled (skip if no active file)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Replace selection",
+                    "target": "Replace selection"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "After selection",
+                    "target": "After selection"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "End of line",
+                    "target": "End of line"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "New line",
+                    "target": "New line"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Top of file (after frontmatter)",
+                    "target": "Top of file (after frontmatter)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "New line above cursor",
+                    "target": "New line above cursor"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "New line below cursor",
+                    "target": "New line below cursor"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "After line…",
+                    "target": "After line…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Bottom of file",
+                    "target": "Bottom of file"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Never skip",
+                    "target": "Never skip"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Always skip",
+                    "target": "Always skip"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Auto (headings only)",
+                    "target": "Auto (headings only)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Ask me",
+                    "target": "Ask me"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Split down",
+                    "target": "Split down"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Split right",
+                    "target": "Split right"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Move cursor to line end",
+                    "target": "Move cursor to line end"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Move cursor to line start",
+                    "target": "Move cursor to line start"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Move cursor to file end",
+                    "target": "Move cursor to file end"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Move cursor to file start",
+                    "target": "Move cursor to file start"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Select link on active line",
+                    "target": "Select link on active line"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "选择活动行上的链接",
+                    "target": "选择活动行上的链接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Select active line",
+                    "target": "Select active line"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "选择活动行",
+                    "target": "选择活动行"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Paste with format",
+                    "target": "Paste with format"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "粘贴",
+                    "target": "粘贴"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "剪切",
+                    "target": "剪切"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "复制",
+                    "target": "复制"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Select command",
+                    "target": "Select command"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Run script",
+                    "target": "Run script"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Macro variable",
+                    "target": "Macro variable"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Add only",
+                    "target": "Add only"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Replace existing",
+                    "target": "Replace existing"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Provider /v1/models (requires API key)",
+                    "target": "Provider /v1/models (requires API key)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "models.dev directory",
+                    "target": "models.dev directory"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Automatic (try provider, fallback to models.dev)",
+                    "target": "Automatic (try provider, fallback to models.dev)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Don't show",
+                    "target": "Don't show"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Show updates only on major releases (new features, breaking changes)",
+                    "target": "Show updates only on major releases (new features, breaking changes)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Show updates on each new release",
+                    "target": "Show updates on each new release"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "提交",
+                    "target": "提交"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "确定",
+                    "target": "确定"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "取消",
+                    "target": "取消"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "添加",
+                    "target": "添加"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "保存",
+                    "target": "保存"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Import selected",
+                    "target": "Import selected"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Add custom...",
+                    "target": "Add custom..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "添加提供商",
+                    "target": "添加提供商"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "编辑",
+                    "target": "编辑"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "添加模型",
+                    "target": "添加模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Browse models",
+                    "target": "Browse models"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Sync now",
+                    "target": "Sync now"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "编辑提供商",
+                    "target": "编辑提供商"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Export package…",
+                    "target": "Export package…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Import package…",
+                    "target": "Import package…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Reset to defaults",
+                    "target": "Reset to defaults"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Override the global setting for this choice. 'Always' forces the one-page modal even if disabled globally; 'Never' disables it even if enabled globally.",
+                    "target": "Override the global setting for this choice. 'Always' forces the one-page modal even if disabled globally; 'Never' disables it even if enabled globally."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "How to arrange the new pane relative to the current one",
+                    "target": "How to arrange the new pane relative to the current one"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "How to display the opened file",
+                    "target": "How to display the opened file"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "立即聚焦打开的标签页",
+                    "target": "立即聚焦打开的标签页"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Advanced / legacy: this executes any `<% %>` anywhere in the destination file (including inside code blocks).",
+                    "target": "Advanced / legacy: this executes any `<% %>` anywhere in the destination file (including inside code blocks)."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Controls whether this Capture uses the current editor selection as {{VALUE}}. Does not affect {{SELECTED}}.",
+                    "target": "Controls whether this Capture uses the current editor selection as {{VALUE}}. Does not affect {{SELECTED}}."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Vault-relative path. Supports format syntax (use trailing '/' for folders).",
+                    "target": "Vault-relative path. Supports format syntax (use trailing '/' for folders)."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose a file, folder, or format syntax (e.g., {{DATE}})",
+                    "target": "Choose a file, folder, or format syntax (e.g., {{DATE}})"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose a card from the canvas below, or paste an exact node id.",
+                    "target": "Choose a card from the canvas below, or paste an exact node id."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "将值格式化为任务。",
+                    "target": "将值格式化为任务。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose how QuickAdd should insert a link to the captured file in the current note.",
+                    "target": "Choose how QuickAdd should insert a link to the captured file in the current note."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Where to place the link when appending",
+                    "target": "Where to place the link when appending"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Insert capture after specified text. Accepts format syntax. Tip: use a heading (starts with #) to target a section. Blank line handling is configurable below.",
+                    "target": "Insert capture after specified text. Accepts format syntax. Tip: use a heading (starts with #) to target a section. Blank line handling is configurable below."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Insert captured content on the same line, immediately after the matched text (no newline added).",
+                    "target": "Insert captured content on the same line, immediately after the matched text (no newline added)."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Replace everything after the matched text up to end-of-line.",
+                    "target": "Replace everything after the matched text up to end-of-line."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Place the text at the end of the matched section instead of the 顶部",
+                    "target": "Place the text at the end of the matched section instead of the 顶部"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Also include the section’s subsections (requires target to be a heading starting with #). Subsections are headings inside the section.",
+                    "target": "Also include the section’s subsections (requires target to be a heading starting with #). Subsections are headings inside the section."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "如果找不到 '在之后插入' 行，则创建该行。",
+                    "target": "如果找不到 '在之后插入' 行，则创建该行。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "设置捕获的格式。",
+                    "target": "设置捕获的格式。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "模板路径。",
+                    "target": "模板路径。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "设置文件名格式。",
+                    "target": "设置文件名格式。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "在指定文件夹中创建文件。如果指定了多个文件夹，系统将提示您在哪个文件夹中创建文件。",
+                    "target": "在指定文件夹中创建文件。如果指定了多个文件夹，系统将提示您在哪个文件夹中创建文件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "创建笔记时，系统会提示您从所选文件夹及其子文件夹中进行选择。",
+                    "target": "创建笔记时，系统会提示您从所选文件夹及其子文件夹中进行选择。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "在与当前活动文件相同的文件夹中创建文件。如果没有活动文件，则不会创建文件。",
+                    "target": "在与当前活动文件相同的文件夹中创建文件。如果没有活动文件，则不会创建文件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose how QuickAdd should insert a link to the created file in the current note.",
+                    "target": "Choose how QuickAdd should insert a link to the created file in the current note."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "设置默认行为，而不是在文件已存在的情况下提示用户如何操作。",
+                    "target": "设置默认行为，而不是在文件已存在的情况下提示用户如何操作。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "启用此选项将使助手使用您指定的提示模板。如果禁用，助手将要求您使用提示模板。",
+                    "target": "启用此选项将使助手使用您指定的提示模板。如果禁用，助手将要求您使用提示模板。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI助手将使用的模型",
+                    "target": "AI助手将使用的模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "用于存储AI助手输出的变量名称，例如{{value:output}}。",
+                    "target": "用于存储AI助手输出的变量名称，例如{{value:output}}。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI助手的系统提示",
+                    "target": "AI助手的系统提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "显示温度、top p 和频率惩罚等高级设置。",
+                    "target": "显示温度、top p 和频率惩罚等高级设置。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "采样温度。较高的数值（如 0.8）会使输出更加随机，而较低的数值（如 0.2）则会使输出更加集中和确定。默认值为 1。",
+                    "target": "采样温度。较高的数值（如 0.8）会使输出更加随机，而较低的数值（如 0.2）则会使输出更加集中和确定。默认值为 1。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "核心采样 - 可以将其视为温度的替代方法。模型会考虑具有 top_p 概率质量的标记结果。0.1 表示只考虑占据前 10% 概率质量的标记。默认值为 1。",
+                    "target": "核心采样 - 可以将其视为温度的替代方法。模型会考虑具有 top_p 概率质量的标记结果。0.1 表示只考虑占据前 10% 概率质量的标记。默认值为 1。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "正值会根据新标记在文本中的现有频率对其进行惩罚，从而降低模型逐字重复同一行的可能性。默认值为 0。",
+                    "target": "正值会根据新标记在文本中的现有频率对其进行惩罚，从而降低模型逐字重复同一行的可能性。默认值为 0。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "正值会根据新标记是否出现在文本中对其进行惩罚，从而增加模型谈论新话题的可能性。默认值为 0。",
+                    "target": "正值会根据新标记是否出现在文本中对其进行惩罚，从而增加模型谈论新话题的可能性。默认值为 0。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Path to the file. Supports formatting like {{DATE}}, {{VALUE}}, etc.",
+                    "target": "Path to the file. Supports formatting like {{DATE}}, {{VALUE}}, etc."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose tab, split, window, or sidebar",
+                    "target": "Choose tab, split, window, or sidebar"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Bring the opened file to the foreground",
+                    "target": "Bring the opened file to the foreground"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "添加一个 Obsidian 命令",
+                    "target": "添加一个 Obsidian 命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "添加编辑器命令",
+                    "target": "添加编辑器命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Add user script - type the name or click Browse",
+                    "target": "Add user script - type the name or click Browse"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "添加现有选项",
+                    "target": "添加现有选项"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose how this condition should be evaluated.",
+                    "target": "Choose how this condition should be evaluated."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Name of the macro variable to inspect (without the $ prefix).",
+                    "target": "Name of the macro variable to inspect (without the $ prefix)."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "How to compare the variable value.",
+                    "target": "How to compare the variable value."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "How to interpret the comparison value.",
+                    "target": "How to interpret the comparison value."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose true or false.",
+                    "target": "Choose true or false."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Value to compare against.",
+                    "target": "Value to compare against."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Vault-relative path to the JavaScript file.",
+                    "target": "Vault-relative path to the JavaScript file."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Execute this macro when Obsidian starts",
+                    "target": "Execute this macro when Obsidian starts"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Shown in the choice picker search box when this multi choice opens. Leave blank to use the multi name.",
+                    "target": "Shown in the choice picker search box when this multi choice opens. Leave blank to use the multi name."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Add will append new models. Replace will overwrite existing models with the selected list.",
+                    "target": "Add will append new models. Replace will overwrite existing models with the selected list."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Select a secret from SecretStorage",
+                    "target": "Select a secret from SecretStorage"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Create any custom endpoint (OpenAI-compatible or otherwise)",
+                    "target": "Create any custom endpoint (OpenAI-compatible or otherwise)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI助手的提供商",
+                    "target": "AI助手的提供商"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "提供商的名称",
+                    "target": "提供商的名称"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI助手的端点",
+                    "target": "AI助手的端点"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose where QuickAdd looks when browsing or syncing models for this provider.",
+                    "target": "Choose where QuickAdd looks when browsing or syncing models for this provider."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI助手的默认模型",
+                    "target": "AI助手的默认模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "包含提示模板的文件夹路径",
+                    "target": "包含提示模板的文件夹路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "显示 AI 助手的状态消息",
+                    "target": "显示 AI 助手的状态消息"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI助手的默认系统提示",
+                    "target": "AI助手的默认系统提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Git information for developers.",
+                    "target": "Git information for developers."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Bundle or import QuickAdd automations as reusable packages.",
+                    "target": "Bundle or import QuickAdd automations as reusable packages."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "安装新版本时显示发布说明。这包括新功能、演示视频和错误修复。",
+                    "target": "安装新版本时显示发布说明。这包括新功能、演示视频和错误修复。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Display a notification when content is captured successfully to confirm the operation completed.",
+                    "target": "Display a notification when content is captured successfully to confirm the operation completed."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Display a notification when an input prompt is cancelled without submitting. Disable this to avoid extra notices when dismissing prompts.",
+                    "target": "Display a notification when an input prompt is cancelled without submitting. Disable this to avoid extra notices when dismissing prompts."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "使用多行输入提示而不是单行输入提示",
+                    "target": "使用多行输入提示而不是单行输入提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Keep drafts when closing input prompts so they can be restored on reopen. Drafts are stored only for this session.",
+                    "target": "Keep drafts when closing input prompts so they can be restored on reopen. Drafts are stored only for this session."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "When enabled, Capture uses the current editor selection as {{VALUE}} and may skip the prompt. When disabled, Capture always prompts for {{VALUE}}.",
+                    "target": "When enabled, Capture uses the current editor selection as {{VALUE}} and may skip the prompt. When disabled, Capture always prompts for {{VALUE}}."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "模板存储的文件夹路径。在配置 QuickAdd 时用于建议模板文件。",
+                    "target": "模板存储的文件夹路径。在配置 QuickAdd 时用于建议模板文件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Shortcodes for natural language date parsing. One per line: alias = phrase. Example: tm = tomorrow.",
+                    "target": "Shortcodes for natural language date parsing. One per line: alias = phrase. Example: tm = tomorrow."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "这可以防止插件向OpenAI等外部提供者发出请求。您仍然可以使用用户脚本执行任意代码，包括联系外部提供商。但是，此设置会禁用AI助手等插件功能。您需要禁用此设置才能使用AI助手。",
+                    "target": "这可以防止插件向OpenAI等外部提供者发出请求。您仍然可以使用用户脚本执行任意代码，包括联系外部提供商。但是，此设置会禁用AI助手等插件功能。您需要禁用此设置才能使用AI助手。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "在侧边栏中添加 QuickAdd 图标。需要重新加载。",
+                    "target": "在侧边栏中添加 QuickAdd 图标。需要重新加载。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "用于将多个 LLM 响应连接在一起的字符串。默认是换行符。",
+                    "target": "用于将多个 LLM 响应连接在一起的字符串。默认是换行符。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "用于分隔文本块的字符串。默认是换行符。",
+                    "target": "用于分隔文本块的字符串。默认是换行符。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "每块标记的最大数量，计算公式为块标记大小 + 提示模板标记大小 + 系统提示标记大小。确保为模型响应提示留出空间。",
+                    "target": "每块标记的最大数量，计算公式为块标记大小 + 提示模板标记大小 + 系统提示标记大小。确保为模型响应提示留出空间。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "将数据块合并到同一提示符中，直到达到最大token数限制。这有助于减少发送查询的次数，但可能会导致回复不连贯。",
+                    "target": "将数据块合并到同一提示符中，直到达到最大token数限制。这有助于减少发送查询的次数，但可能会导致回复不连贯。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "One-page input override",
+                    "target": "One-page input override"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "打开",
+                    "target": "打开"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "File Opening Location",
+                    "target": "File Opening Location"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Split Direction",
+                    "target": "Split Direction"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "View Mode",
+                    "target": "View Mode"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "聚焦新面板",
+                    "target": "聚焦新面板"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Use editor selection as default value",
+                    "target": "Use editor selection as default value"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Capture to",
+                    "target": "Capture to"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "File path / format",
+                    "target": "File path / format"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Target canvas node",
+                    "target": "Target canvas node"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "任务",
+                    "target": "任务"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Link to captured file",
+                    "target": "Link to captured file"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Link type",
+                    "target": "Link type"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Write position",
+                    "target": "Write position"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "在之后插入",
+                    "target": "在之后插入"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Inline insertion",
+                    "target": "Inline insertion"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Replace existing value",
+                    "target": "Replace existing value"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "在章节末尾插入",
+                    "target": "在章节末尾插入"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Blank lines after match",
+                    "target": "Blank lines after match"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "考虑小节",
+                    "target": "考虑小节"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "如果未找到则创建行",
+                    "target": "如果未找到则创建行"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "捕获格式",
+                    "target": "捕获格式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "如果文件不存在，则创建该文件",
+                    "target": "如果文件不存在，则创建该文件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "使用给定模板创建文件。",
+                    "target": "使用给定模板创建文件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "模板路径",
+                    "target": "模板路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "File name format",
+                    "target": "File name format"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "在文件夹中创建",
+                    "target": "在文件夹中创建"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "包含子文件夹",
+                    "target": "包含子文件夹"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "在与活动文件相同的文件夹中创建",
+                    "target": "在与活动文件相同的文件夹中创建"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Link to created file",
+                    "target": "Link to created file"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "如果文件已存在，则设置默认行为",
+                    "target": "如果文件已存在，则设置默认行为"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "提示模板",
+                    "target": "提示模板"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "模型",
+                    "target": "模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "输出变量名",
+                    "target": "输出变量名"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "系统提示",
+                    "target": "系统提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "显示高级设置",
+                    "target": "显示高级设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "温度",
+                    "target": "温度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "顶部 P",
+                    "target": "顶部 P"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "频率惩罚",
+                    "target": "频率惩罚"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "在场惩罚",
+                    "target": "在场惩罚"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "File path",
+                    "target": "File path"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Where to open",
+                    "target": "Where to open"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Split direction",
+                    "target": "Split direction"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Focus opened file",
+                    "target": "Focus opened file"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Obsidian 命令",
+                    "target": "Obsidian 命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "编辑器命令",
+                    "target": "编辑器命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "用户脚本",
+                    "target": "用户脚本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "选择",
+                    "target": "选择"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Condition type",
+                    "target": "Condition type"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Variable name",
+                    "target": "Variable name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Value type",
+                    "target": "Value type"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Expected value",
+                    "target": "Expected value"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Script path",
+                    "target": "Script path"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Export name",
+                    "target": "Export name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Run on startup",
+                    "target": "Run on startup"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "名称",
+                    "target": "名称"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Import mode",
+                    "target": "Import mode"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "API 密钥",
+                    "target": "API 密钥"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Custom provider",
+                    "target": "Custom provider"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "提供商",
+                    "target": "提供商"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "端点",
+                    "target": "端点"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Model source",
+                    "target": "Model source"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "添加模型",
+                    "target": "添加模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Import models",
+                    "target": "Import models"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Auto-sync models",
+                    "target": "Auto-sync models"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "默认模型",
+                    "target": "默认模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "提示模板文件夹路径",
+                    "target": "提示模板文件夹路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "显示助手",
+                    "target": "显示助手"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "默认系统提示",
+                    "target": "默认系统提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Development Information",
+                    "target": "Development Information"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "宣布更新",
+                    "target": "宣布更新"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show Capture Notifications",
+                    "target": "Show Capture Notifications"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show Input Cancellation Notifications",
+                    "target": "Show Input Cancellation Notifications"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "使用多行输入提示",
+                    "target": "使用多行输入提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Persist Input Prompt Drafts",
+                    "target": "Persist Input Prompt Drafts"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Use editor selection as default Capture value",
+                    "target": "Use editor selection as default Capture value"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "模板文件夹路径",
+                    "target": "模板文件夹路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "One-page input for choices (Beta)",
+                    "target": "One-page input for choices (Beta)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Date aliases",
+                    "target": "Date aliases"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "禁用 AI 和联机功能",
+                    "target": "禁用 AI 和联机功能"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "在侧边栏显示图标",
+                    "target": "在侧边栏显示图标"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "结果连接程序",
+                    "target": "结果连接程序"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "块状分离器",
+                    "target": "块状分离器"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "最大区块标记",
+                    "target": "最大区块标记"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "合并区块",
+                    "target": "合并区块"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "文件路径",
+                    "target": "文件路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Canvas node id",
+                    "target": "Canvas node id"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Filter by card text, file path, or node id…",
+                    "target": "Filter by card text, file path, or node id…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "文件名格式",
+                    "target": "文件名格式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "文件夹路径",
+                    "target": "文件夹路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Obsidian 命令",
+                    "target": "Obsidian 命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Start typing script name...",
+                    "target": "Start typing script name..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "选择",
+                    "target": "选择"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g. projectStatus",
+                    "target": "e.g. projectStatus"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Enter comparison value",
+                    "target": "Enter comparison value"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Defaults to the multi name",
+                    "target": "Defaults to the multi name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Filter by name or id",
+                    "target": "Filter by name or id"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "t = today\ntm = tomorrow\nyd = yesterday",
+                    "target": "t = today\ntm = tomorrow\nyd = yesterday"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Edit Multi Choice",
+                    "target": "Edit Multi Choice"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Move to: (no folders)",
+                    "target": "Move to: (no folders)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "如果文件不存在，则创建该文件",
+                    "target": "如果文件不存在，则创建该文件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Browse and select a script file",
+                    "target": "Browse and select a script file"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Add Open File command",
+                    "target": "Add Open File command"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "添加 AI 助手命令",
+                    "target": "添加 AI 助手命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "添加等待命令",
+                    "target": "添加等待命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Add conditional command",
+                    "target": "Add conditional command"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Select a script file",
+                    "target": "Select a script file"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Select all",
+                    "target": "Select all"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Clear selection",
+                    "target": "Clear selection"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "使用多行输入提示",
+                    "target": "使用多行输入提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Moment.js is not available",
+                    "target": "Moment.js is not available"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Failed to parse date:",
+                    "target": "Failed to parse date:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "dndzone will ignore unknown options",
+                    "target": "dndzone will ignore unknown options"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Target canvas file was not found.",
+                    "target": "Target canvas file was not found."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not open target canvas.",
+                    "target": "Could not open target canvas."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Open the target canvas and select exactly one card to use this action.",
+                    "target": "Open the target canvas and select exactly one card to use this action."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Canvas nodes are still loading. Wait a moment and try again.",
+                    "target": "Canvas nodes are still loading. Wait a moment and try again."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not copy node id automatically.",
+                    "target": "Could not copy node id automatically."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Consider subsections requires the target to be a heading (starts with #)",
+                    "target": "Consider subsections requires the target to be a heading (starts with #)"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Select at least one model.",
+                    "target": "Select at least one model."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No models selected to import.",
+                    "target": "No models selected to import."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Custom provider added. Click Edit to configure.",
+                    "target": "Custom provider added. Click Edit to configure."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "选项名称无效。",
+                    "target": "选项名称无效。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Select at least one choice to export.",
+                    "target": "Select at least one choice to export."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Package copied with warnings. Review details below.",
+                    "target": "Package copied with warnings. Review details below."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Enter a file path before saving.",
+                    "target": "Enter a file path before saving."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Package saved with warnings. Review details below.",
+                    "target": "Package saved with warnings. Review details below."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "This package has already been imported.",
+                    "target": "This package has already been imported."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Load a package before importing.",
+                    "target": "Load a package before importing."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Canvas capture skipped link insertion because no Markdown editor is focused.",
+                    "target": "Canvas capture skipped link insertion because no Markdown editor is focused."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "'增量文件名称' 设置移至 '如果文件已存在，则设置默认行为' 设置",
+                    "target": "'增量文件名称' 设置移至 '如果文件已存在，则设置默认行为' 设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "插入其后 和 写入文件底部 设置相互排斥。如果启用 插入其后，则会禁用 写入文件底部。以支持更改设置界面。",
+                    "target": "插入其后 和 写入文件底部 设置相互排斥。如果启用 插入其后，则会禁用 写入文件底部。以支持更改设置界面。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "将版本设置为当前插件版本。",
+                    "target": "将版本设置为当前插件版本。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "将默认 AI 提供商添加到设置中。",
+                    "target": "将默认 AI 提供商添加到设置中。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Migrate legacy openFileInNewTab settings to new fileOpening format",
+                    "target": "Migrate legacy openFileInNewTab settings to new fileOpening format"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Backfill missing file opening defaults for older choices",
+                    "target": "Backfill missing file opening defaults for older choices"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Ensure every AI provider has a discovery mode so browsing works without models.dev",
+                    "target": "Ensure every AI provider has a discovery mode so browsing works without models.dev"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Move AI provider API keys into Obsidian SecretStorage",
+                    "target": "Move AI provider API keys into Obsidian SecretStorage"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Choice name",
+                    "target": "Choice name"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Choice id",
+                    "target": "Choice id"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Variables object as JSON",
+                    "target": "Variables object as JSON"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Allow interactive prompts",
+                    "target": "Allow interactive prompts"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Filter by choice type",
+                    "target": "Filter by choice type"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Only include command-enabled choices",
+                    "target": "Only include command-enabled choices"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Unable to parse date",
+                    "target": "Unable to parse date"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Multi choices are interactive and cannot be run via CLI.",
+                    "target": "Multi choices are interactive and cannot be run via CLI."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Missing required inputs for non-interactive CLI run.",
+                    "target": "Missing required inputs for non-interactive CLI run."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Multi choices are interactive and cannot be checked via CLI.",
+                    "target": "Multi choices are interactive and cannot be checked via CLI."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Reuse active tab",
+                    "target": "Reuse active tab"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "New tab",
+                    "target": "New tab"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "New window",
+                    "target": "New window"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Left sidebar",
+                    "target": "Left sidebar"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Right sidebar",
+                    "target": "Right sidebar"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Does not equal",
+                    "target": "Does not equal"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Less than",
+                    "target": "Less than"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Less than or equal",
+                    "target": "Less than or equal"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Greater than",
+                    "target": "Greater than"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Greater than or equal",
+                    "target": "Greater than or equal"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Does not contain",
+                    "target": "Does not contain"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Is truthy",
+                    "target": "Is truthy"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Is falsy",
+                    "target": "Is falsy"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "<current folder>",
+                    "target": "<current folder>"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Math expression",
+                    "target": "Math expression"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Select capture target file",
+                    "target": "Select capture target file"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Document Name",
+                    "target": "Document Name"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "应用样式",
+                    "target": "应用样式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "箭头",
+                    "target": "箭头"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "计算样式",
+                    "target": "计算样式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "事件监听器",
+                    "target": "事件监听器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "翻转",
+                    "target": "翻转"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "隐藏",
+                    "target": "隐藏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "偏移",
+                    "target": "偏移"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "popper 偏移",
+                    "target": "popper 偏移"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "防止溢出",
+                    "target": "防止溢出"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "相同宽度",
+                    "target": "相同宽度"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Hugging Face",
+                    "target": "Hugging Face"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "运行 QuickAdd",
+                    "target": "运行 QuickAdd"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "重新加载 QuickAdd (开发版)",
+                    "target": "重新加载 QuickAdd (开发版)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "测试 QuickAdd (开发版)",
+                    "target": "测试 QuickAdd (开发版)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "测试",
+                    "target": "测试"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "File name format",
+                    "target": "File name format"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Insert after",
+                    "target": "Insert after"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Select a JavaScript file",
+                    "target": "Select a JavaScript file"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "e.g., 2+2*3",
+                    "target": "e.g., 2+2*3"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tab",
+                    "source": "New tab",
+                    "target": "New tab"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Preview:",
+                    "target": "Preview:"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Provide inputs",
+                    "target": "Provide inputs"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Preview: ",
+                    "target": "Preview: "
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Tip: open this canvas and select one card to grab its id instantly.",
+                    "target": "Tip: open this canvas and select one card to grab its id instantly."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Open target canvas",
+                    "target": "Open target canvas"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Use selected in open canvas",
+                    "target": "Use selected in open canvas"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Loading canvas nodes…",
+                    "target": "Loading canvas nodes…"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No nodes match the current filter.",
+                    "target": "No nodes match the current filter."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Copy ID",
+                    "target": "Copy ID"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "创建新笔记时选择文件夹",
+                    "target": "创建新笔记时选择文件夹"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Exact for OpenAI models; estimates for others.",
+                    "target": "Exact for OpenAI models; estimates for others."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No JavaScript files found",
+                    "target": "No JavaScript files found"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "QuickAdd cannot find any .js files in your vault.",
+                    "target": "QuickAdd cannot find any .js files in your vault."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Please make sure your scripts are:",
+                    "target": "Please make sure your scripts are:"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "✓ In your vault (not in .obsidian folder)",
+                    "target": "✓ In your vault (not in .obsidian folder)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "✓ Not in hidden folders (starting with a dot)",
+                    "target": "✓ Not in hidden folders (starting with a dot)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "✓ Have a .js extension",
+                    "target": "✓ Have a .js extension"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "View documentation",
+                    "target": "View documentation"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Configure Conditional Command",
+                    "target": "Configure Conditional Command"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Add a provider",
+                    "target": "Add a provider"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "AI助手设置",
+                    "target": "AI助手设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "获取更新日志中...",
+                    "target": "获取更新日志中..."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "My Document Title",
+                    "target": "My Document Title"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "log(`${this.constructor.name} merged ${Z} and ${a} into ${m}`)",
+                    "target": "log(`${this.constructor.name} merged ${Z} and ${a} into ${m}`)"
+                },
+                {
+                    "source": "log(`Extracting timezone: '${d}' into: ${m} for: ${t.start}`)",
+                    "target": "log(`Extracting timezone: '${d}' into: ${m} for: ${t.start}`)"
+                },
+                {
+                    "source": "log(`Extracting timezone: '${c[0]}' into : ${G}`)",
+                    "target": "log(`Extracting timezone: '${c[0]}' into : ${G}`)"
+                },
+                {
+                    "source": "log(`${this.constructor.name} adjusted ${G} time from the ref date (${c}) to the following day (${b})`)",
+                    "target": "log(`${this.constructor.name} adjusted ${G} time from the ref date (${c}) to the following day (${b})`)"
+                },
+                {
+                    "source": "log(`${this.constructor.name} adjusted ${G} weekday (${G.start})`)",
+                    "target": "log(`${this.constructor.name} adjusted ${G} weekday (${G.start})`)"
+                },
+                {
+                    "source": "log(`${this.constructor.name} adjusted ${G} weekday (${G.end})`)",
+                    "target": "log(`${this.constructor.name} adjusted ${G} weekday (${G.end})`)"
+                },
+                {
+                    "source": "log(`${this.constructor.name} adjusted ${G} year (${G.start})`)",
+                    "target": "log(`${this.constructor.name} adjusted ${G} year (${G.start})`)"
+                },
+                {
+                    "source": "log(`${this.constructor.name} adjusted ${G} month (${G.start})`)",
+                    "target": "log(`${this.constructor.name} adjusted ${G} month (${G.start})`)"
+                },
+                {
+                    "source": "log(`Extracting year: '${c[0]}' into : ${G}`)",
+                    "target": "log(`Extracting year: '${c[0]}' into : ${G}`)"
+                },
+                {
+                    "source": "log(`${l.constructor.name} extracted (at index=${n}) '${W}'`)",
+                    "target": "log(`${l.constructor.name} extracted (at index=${n}) '${W}'`)"
+                },
+                {
+                    "source": "setTooltip(`Toggle ${l}`)",
+                    "target": "setTooltip(`Toggle ${l}`)"
+                },
+                {
+                    "source": "setButtonText(\"提交\")",
+                    "target": "setButtonText(\"提交\")"
+                },
+                {
+                    "source": "setButtonText(\"确定\")",
+                    "target": "setButtonText(\"确定\")"
+                },
+                {
+                    "source": "setButtonText(\"否\")",
+                    "target": "setButtonText(\"否\")"
+                },
+                {
+                    "source": "setButtonText(\"是\")",
+                    "target": "setButtonText(\"是\")"
+                },
+                {
+                    "source": "setButtonText(\"取消\")",
+                    "target": "setButtonText(\"取消\")"
+                },
+                {
+                    "source": "Notice(`${l}: ${t}`)",
+                    "target": "Notice(`${l}: ${t}`)"
+                },
+                {
+                    "source": "Notice(`Folder must be under: ${t}`)",
+                    "target": "Notice(`Folder must be under: ${t}`)"
+                },
+                {
+                    "source": "setName(\"One-page input override\")",
+                    "target": "setName(\"One-page input override\")"
+                },
+                {
+                    "source": "setDesc(\"Override the global setting for this choice. 'Always' forces the one-page modal even if disabled globally; 'Never' disables it even if enabled globally.\")",
+                    "target": "setDesc(\"Override the global setting for this choice. 'Always' forces the one-page modal even if disabled globally; 'Never' disables it even if enabled globally.\")"
+                },
+                {
+                    "source": "setPlaceholder(\"文件路径\")",
+                    "target": "setPlaceholder(\"文件路径\")"
+                },
+                {
+                    "source": "setName(\"打开\")",
+                    "target": "setName(\"打开\")"
+                },
+                {
+                    "source": "setName(\"File Opening Location\")",
+                    "target": "setName(\"File Opening Location\")"
+                },
+                {
+                    "source": "setDesc(`Where to open the ${l} file`)",
+                    "target": "setDesc(`Where to open the ${l} file`)"
+                },
+                {
+                    "source": "setName(\"Split Direction\")",
+                    "target": "setName(\"Split Direction\")"
+                },
+                {
+                    "source": "setDesc(\"How to arrange the new pane relative to the current one\")",
+                    "target": "setDesc(\"How to arrange the new pane relative to the current one\")"
+                },
+                {
+                    "source": "setName(\"View Mode\")",
+                    "target": "setName(\"View Mode\")"
+                },
+                {
+                    "source": "setDesc(\"How to display the opened file\")",
+                    "target": "setDesc(\"How to display the opened file\")"
+                },
+                {
+                    "source": "setName(\"聚焦新面板\")",
+                    "target": "setName(\"聚焦新面板\")"
+                },
+                {
+                    "source": "setDesc(\"立即聚焦打开的标签页\")",
+                    "target": "setDesc(\"立即聚焦打开的标签页\")"
+                },
+                {
+                    "source": "setDesc(\"Advanced / legacy: this executes any `<% %>` anywhere in the destination file (including inside code blocks).\")",
+                    "target": "setDesc(\"Advanced / legacy: this executes any `<% %>` anywhere in the destination file (including inside code blocks).\")"
+                },
+                {
+                    "source": "setName(\"Use editor selection as default value\")",
+                    "target": "setName(\"Use editor selection as default value\")"
+                },
+                {
+                    "source": "setDesc(\"Controls whether this Capture uses the current editor selection as {{VALUE}}. Does not affect {{SELECTED}}.\")",
+                    "target": "setDesc(\"Controls whether this Capture uses the current editor selection as {{VALUE}}. Does not affect {{SELECTED}}.\")"
+                },
+                {
+                    "source": "setName(\"Capture to\")",
+                    "target": "setName(\"Capture to\")"
+                },
+                {
+                    "source": "setDesc(\"Vault-relative path. Supports format syntax (use trailing '/' for folders).\")",
+                    "target": "setDesc(\"Vault-relative path. Supports format syntax (use trailing '/' for folders).\")"
+                },
+                {
+                    "source": "setName(\"File path / format\")",
+                    "target": "setName(\"File path / format\")"
+                },
+                {
+                    "source": "setDesc(\"Choose a file, folder, or format syntax (e.g., {{DATE}})\")",
+                    "target": "setDesc(\"Choose a file, folder, or format syntax (e.g., {{DATE}})\")"
+                },
+                {
+                    "source": "setName(\"Target canvas node\")",
+                    "target": "setName(\"Target canvas node\")"
+                },
+                {
+                    "source": "setDesc(\"Choose a card from the canvas below, or paste an exact node id.\")",
+                    "target": "setDesc(\"Choose a card from the canvas below, or paste an exact node id.\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Canvas node id\")",
+                    "target": "setPlaceholder(\"Canvas node id\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Filter by card text, file path, or node id\\u2026\")",
+                    "target": "setPlaceholder(\"Filter by card text, file path, or node id\\u2026\")"
+                },
+                {
+                    "source": "Notice(\"Target canvas file was not found.\")",
+                    "target": "Notice(\"Target canvas file was not found.\")"
+                },
+                {
+                    "source": "Notice(\"Could not open target canvas.\")",
+                    "target": "Notice(\"Could not open target canvas.\")"
+                },
+                {
+                    "source": "Notice(\"Open the target canvas and select exactly one card to use this action.\")",
+                    "target": "Notice(\"Open the target canvas and select exactly one card to use this action.\")"
+                },
+                {
+                    "source": "Notice(\"Canvas nodes are still loading. Wait a moment and try again.\")",
+                    "target": "Notice(\"Canvas nodes are still loading. Wait a moment and try again.\")"
+                },
+                {
+                    "source": "setText(`Showing ${i.length} of ${u.length} nodes`)",
+                    "target": "setText(`Showing ${i.length} of ${u.length} nodes`)"
+                },
+                {
+                    "source": "Notice(`Copied node id ${R.id}`)",
+                    "target": "Notice(`Copied node id ${R.id}`)"
+                },
+                {
+                    "source": "Notice(\"Could not copy node id automatically.\")",
+                    "target": "Notice(\"Could not copy node id automatically.\")"
+                },
+                {
+                    "source": "setName(\"任务\")",
+                    "target": "setName(\"任务\")"
+                },
+                {
+                    "source": "setDesc(\"将值格式化为任务。\")",
+                    "target": "setDesc(\"将值格式化为任务。\")"
+                },
+                {
+                    "source": "setName(\"Link to captured file\")",
+                    "target": "setName(\"Link to captured file\")"
+                },
+                {
+                    "source": "setDesc(\"Choose how QuickAdd should insert a link to the captured file in the current note.\")",
+                    "target": "setDesc(\"Choose how QuickAdd should insert a link to the captured file in the current note.\")"
+                },
+                {
+                    "source": "setDesc(\"Where to place the link when appending\")",
+                    "target": "setDesc(\"Where to place the link when appending\")"
+                },
+                {
+                    "source": "setName(\"Link type\")",
+                    "target": "setName(\"Link type\")"
+                },
+                {
+                    "source": "setName(\"Write position\")",
+                    "target": "setName(\"Write position\")"
+                },
+                {
+                    "source": "setName(\"在之后插入\")",
+                    "target": "setName(\"在之后插入\")"
+                },
+                {
+                    "source": "setDesc(\"Insert capture after specified text. Accepts format syntax. Tip: use a heading (starts with #) to target a section. Blank line handling is configurable below.\")",
+                    "target": "setDesc(\"Insert capture after specified text. Accepts format syntax. Tip: use a heading (starts with #) to target a section. Blank line handling is configurable below.\")"
+                },
+                {
+                    "source": "setName(\"Inline insertion\")",
+                    "target": "setName(\"Inline insertion\")"
+                },
+                {
+                    "source": "setDesc(\"Insert captured content on the same line, immediately after the matched text (no newline added).\")",
+                    "target": "setDesc(\"Insert captured content on the same line, immediately after the matched text (no newline added).\")"
+                },
+                {
+                    "source": "setName(\"Replace existing value\")",
+                    "target": "setName(\"Replace existing value\")"
+                },
+                {
+                    "source": "setDesc(\"Replace everything after the matched text up to end-of-line.\")",
+                    "target": "setDesc(\"Replace everything after the matched text up to end-of-line.\")"
+                },
+                {
+                    "source": "setName(\"在章节末尾插入\")",
+                    "target": "setName(\"在章节末尾插入\")"
+                },
+                {
+                    "source": "setDesc(\"Place the text at the end of the matched section instead of the 顶部\")",
+                    "target": "setDesc(\"Place the text at the end of the matched section instead of the 顶部\")"
+                },
+                {
+                    "source": "setName(\"Blank lines after match\")",
+                    "target": "setName(\"Blank lines after match\")"
+                },
+                {
+                    "source": "setName(\"考虑小节\")",
+                    "target": "setName(\"考虑小节\")"
+                },
+                {
+                    "source": "setDesc(\"Also include the section\\u2019s subsections (requires target to be a heading starting with #). Subsections are headings inside the section.\")",
+                    "target": "setDesc(\"Also include the section\\u2019s subsections (requires target to be a heading starting with #). Subsections are headings inside the section.\")"
+                },
+                {
+                    "source": "Notice(\"Consider subsections requires the target to be a heading (starts with #)\")",
+                    "target": "Notice(\"Consider subsections requires the target to be a heading (starts with #)\")"
+                },
+                {
+                    "source": "setName(\"如果未找到则创建行\")",
+                    "target": "setName(\"如果未找到则创建行\")"
+                },
+                {
+                    "source": "setDesc(\"如果找不到 '在之后插入' 行，则创建该行。\")",
+                    "target": "setDesc(\"如果找不到 '在之后插入' 行，则创建该行。\")"
+                },
+                {
+                    "source": "setName(\"捕获格式\")",
+                    "target": "setName(\"捕获格式\")"
+                },
+                {
+                    "source": "setDesc(\"设置捕获的格式。\")",
+                    "target": "setDesc(\"设置捕获的格式。\")"
+                },
+                {
+                    "source": "setName(\"如果文件不存在，则创建该文件\")",
+                    "target": "setName(\"如果文件不存在，则创建该文件\")"
+                },
+                {
+                    "source": "setTooltip(\"如果文件不存在，则创建该文件\")",
+                    "target": "setTooltip(\"如果文件不存在，则创建该文件\")"
+                },
+                {
+                    "source": "setName(\"使用给定模板创建文件。\")",
+                    "target": "setName(\"使用给定模板创建文件。\")"
+                },
+                {
+                    "source": "setName(\"模板路径\")",
+                    "target": "setName(\"模板路径\")"
+                },
+                {
+                    "source": "setDesc(\"模板路径。\")",
+                    "target": "setDesc(\"模板路径。\")"
+                },
+                {
+                    "source": "setName(\"File name format\")",
+                    "target": "setName(\"File name format\")"
+                },
+                {
+                    "source": "setDesc(\"设置文件名格式。\")",
+                    "target": "setDesc(\"设置文件名格式。\")"
+                },
+                {
+                    "source": "setPlaceholder(\"文件名格式\")",
+                    "target": "setPlaceholder(\"文件名格式\")"
+                },
+                {
+                    "source": "setName(\"在文件夹中创建\")",
+                    "target": "setName(\"在文件夹中创建\")"
+                },
+                {
+                    "source": "setDesc(\"在指定文件夹中创建文件。如果指定了多个文件夹，系统将提示您在哪个文件夹中创建文件。\")",
+                    "target": "setDesc(\"在指定文件夹中创建文件。如果指定了多个文件夹，系统将提示您在哪个文件夹中创建文件。\")"
+                },
+                {
+                    "source": "setName(\"包含子文件夹\")",
+                    "target": "setName(\"包含子文件夹\")"
+                },
+                {
+                    "source": "setDesc(\"创建笔记时，系统会提示您从所选文件夹及其子文件夹中进行选择。\")",
+                    "target": "setDesc(\"创建笔记时，系统会提示您从所选文件夹及其子文件夹中进行选择。\")"
+                },
+                {
+                    "source": "setName(\"在与活动文件相同的文件夹中创建\")",
+                    "target": "setName(\"在与活动文件相同的文件夹中创建\")"
+                },
+                {
+                    "source": "setDesc(\"在与当前活动文件相同的文件夹中创建文件。如果没有活动文件，则不会创建文件。\")",
+                    "target": "setDesc(\"在与当前活动文件相同的文件夹中创建文件。如果没有活动文件，则不会创建文件。\")"
+                },
+                {
+                    "source": "setPlaceholder(\"文件夹路径\")",
+                    "target": "setPlaceholder(\"文件夹路径\")"
+                },
+                {
+                    "source": "setButtonText(\"添加\")",
+                    "target": "setButtonText(\"添加\")"
+                },
+                {
+                    "source": "setName(\"Link to created file\")",
+                    "target": "setName(\"Link to created file\")"
+                },
+                {
+                    "source": "setDesc(\"Choose how QuickAdd should insert a link to the created file in the current note.\")",
+                    "target": "setDesc(\"Choose how QuickAdd should insert a link to the created file in the current note.\")"
+                },
+                {
+                    "source": "setName(\"如果文件已存在，则设置默认行为\")",
+                    "target": "setName(\"如果文件已存在，则设置默认行为\")"
+                },
+                {
+                    "source": "setDesc(\"设置默认行为，而不是在文件已存在的情况下提示用户如何操作。\")",
+                    "target": "setDesc(\"设置默认行为，而不是在文件已存在的情况下提示用户如何操作。\")"
+                },
+                {
+                    "source": "setName(\"提示模板\")",
+                    "target": "setName(\"提示模板\")"
+                },
+                {
+                    "source": "setDesc(\"启用此选项将使助手使用您指定的提示模板。如果禁用，助手将要求您使用提示模板。\")",
+                    "target": "setDesc(\"启用此选项将使助手使用您指定的提示模板。如果禁用，助手将要求您使用提示模板。\")"
+                },
+                {
+                    "source": "setName(\"模型\")",
+                    "target": "setName(\"模型\")"
+                },
+                {
+                    "source": "setDesc(\"AI助手将使用的模型\")",
+                    "target": "setDesc(\"AI助手将使用的模型\")"
+                },
+                {
+                    "source": "setName(\"输出变量名\")",
+                    "target": "setName(\"输出变量名\")"
+                },
+                {
+                    "source": "setDesc(\"用于存储AI助手输出的变量名称，例如{{value:output}}。\")",
+                    "target": "setDesc(\"用于存储AI助手输出的变量名称，例如{{value:output}}。\")"
+                },
+                {
+                    "source": "setName(\"系统提示\")",
+                    "target": "setName(\"系统提示\")"
+                },
+                {
+                    "source": "setDesc(\"AI助手的系统提示\")",
+                    "target": "setDesc(\"AI助手的系统提示\")"
+                },
+                {
+                    "source": "setName(\"显示高级设置\")",
+                    "target": "setName(\"显示高级设置\")"
+                },
+                {
+                    "source": "setDesc(\"显示温度、top p 和频率惩罚等高级设置。\")",
+                    "target": "setDesc(\"显示温度、top p 和频率惩罚等高级设置。\")"
+                },
+                {
+                    "source": "setName(\"温度\")",
+                    "target": "setName(\"温度\")"
+                },
+                {
+                    "source": "setDesc(\"采样温度。较高的数值（如 0.8）会使输出更加随机，而较低的数值（如 0.2）则会使输出更加集中和确定。默认值为 1。\")",
+                    "target": "setDesc(\"采样温度。较高的数值（如 0.8）会使输出更加随机，而较低的数值（如 0.2）则会使输出更加集中和确定。默认值为 1。\")"
+                },
+                {
+                    "source": "setName(\"顶部 P\")",
+                    "target": "setName(\"顶部 P\")"
+                },
+                {
+                    "source": "setDesc(\"核心采样 - 可以将其视为温度的替代方法。模型会考虑具有 top_p 概率质量的标记结果。0.1 表示只考虑占据前 10% 概率质量的标记。默认值为 1。\")",
+                    "target": "setDesc(\"核心采样 - 可以将其视为温度的替代方法。模型会考虑具有 top_p 概率质量的标记结果。0.1 表示只考虑占据前 10% 概率质量的标记。默认值为 1。\")"
+                },
+                {
+                    "source": "setName(\"频率惩罚\")",
+                    "target": "setName(\"频率惩罚\")"
+                },
+                {
+                    "source": "setDesc(\"正值会根据新标记在文本中的现有频率对其进行惩罚，从而降低模型逐字重复同一行的可能性。默认值为 0。\")",
+                    "target": "setDesc(\"正值会根据新标记在文本中的现有频率对其进行惩罚，从而降低模型逐字重复同一行的可能性。默认值为 0。\")"
+                },
+                {
+                    "source": "setName(\"在场惩罚\")",
+                    "target": "setName(\"在场惩罚\")"
+                },
+                {
+                    "source": "setDesc(\"正值会根据新标记是否出现在文本中对其进行惩罚，从而增加模型谈论新话题的可能性。默认值为 0。\")",
+                    "target": "setDesc(\"正值会根据新标记是否出现在文本中对其进行惩罚，从而增加模型谈论新话题的可能性。默认值为 0。\")"
+                },
+                {
+                    "source": "setName(\"File path\")",
+                    "target": "setName(\"File path\")"
+                },
+                {
+                    "source": "setDesc(\"Path to the file. Supports formatting like {{DATE}}, {{VALUE}}, etc.\")",
+                    "target": "setDesc(\"Path to the file. Supports formatting like {{DATE}}, {{VALUE}}, etc.\")"
+                },
+                {
+                    "source": "setName(\"Where to open\")",
+                    "target": "setName(\"Where to open\")"
+                },
+                {
+                    "source": "setDesc(\"Choose tab, split, window, or sidebar\")",
+                    "target": "setDesc(\"Choose tab, split, window, or sidebar\")"
+                },
+                {
+                    "source": "setName(\"Split direction\")",
+                    "target": "setName(\"Split direction\")"
+                },
+                {
+                    "source": "setName(\"Focus opened file\")",
+                    "target": "setName(\"Focus opened file\")"
+                },
+                {
+                    "source": "setDesc(\"Bring the opened file to the foreground\")",
+                    "target": "setDesc(\"Bring the opened file to the foreground\")"
+                },
+                {
+                    "source": "setButtonText(\"保存\")",
+                    "target": "setButtonText(\"保存\")"
+                },
+                {
+                    "source": "setName(\"Obsidian 命令\")",
+                    "target": "setName(\"Obsidian 命令\")"
+                },
+                {
+                    "source": "setDesc(\"添加一个 Obsidian 命令\")",
+                    "target": "setDesc(\"添加一个 Obsidian 命令\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Obsidian 命令\")",
+                    "target": "setPlaceholder(\"Obsidian 命令\")"
+                },
+                {
+                    "source": "setName(\"编辑器命令\")",
+                    "target": "setName(\"编辑器命令\")"
+                },
+                {
+                    "source": "setDesc(\"添加编辑器命令\")",
+                    "target": "setDesc(\"添加编辑器命令\")"
+                },
+                {
+                    "source": "setName(\"用户脚本\")",
+                    "target": "setName(\"用户脚本\")"
+                },
+                {
+                    "source": "setDesc(\"Add user script - type the name or click Browse\")",
+                    "target": "setDesc(\"Add user script - type the name or click Browse\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Start typing script name...\")",
+                    "target": "setPlaceholder(\"Start typing script name...\")"
+                },
+                {
+                    "source": "setTooltip(\"Browse and select a script file\")",
+                    "target": "setTooltip(\"Browse and select a script file\")"
+                },
+                {
+                    "source": "setName(\"选择\")",
+                    "target": "setName(\"选择\")"
+                },
+                {
+                    "source": "setDesc(\"添加现有选项\")",
+                    "target": "setDesc(\"添加现有选项\")"
+                },
+                {
+                    "source": "setPlaceholder(\"选择\")",
+                    "target": "setPlaceholder(\"选择\")"
+                },
+                {
+                    "source": "setTooltip(`Add ${l} Choice`)",
+                    "target": "setTooltip(`Add ${l} Choice`)"
+                },
+                {
+                    "source": "setTooltip(\"Add Open File command\")",
+                    "target": "setTooltip(\"Add Open File command\")"
+                },
+                {
+                    "source": "setTooltip(\"添加 AI 助手命令\")",
+                    "target": "setTooltip(\"添加 AI 助手命令\")"
+                },
+                {
+                    "source": "setTooltip(\"添加等待命令\")",
+                    "target": "setTooltip(\"添加等待命令\")"
+                },
+                {
+                    "source": "setTooltip(\"Add conditional command\")",
+                    "target": "setTooltip(\"Add conditional command\")"
+                },
+                {
+                    "source": "setName(\"Condition type\")",
+                    "target": "setName(\"Condition type\")"
+                },
+                {
+                    "source": "setDesc(\"Choose how this condition should be evaluated.\")",
+                    "target": "setDesc(\"Choose how this condition should be evaluated.\")"
+                },
+                {
+                    "source": "setName(\"Variable name\")",
+                    "target": "setName(\"Variable name\")"
+                },
+                {
+                    "source": "setDesc(\"Name of the macro variable to inspect (without the $ prefix).\")",
+                    "target": "setDesc(\"Name of the macro variable to inspect (without the $ prefix).\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g. projectStatus\")",
+                    "target": "setPlaceholder(\"e.g. projectStatus\")"
+                },
+                {
+                    "source": "setDesc(\"How to compare the variable value.\")",
+                    "target": "setDesc(\"How to compare the variable value.\")"
+                },
+                {
+                    "source": "setName(\"Value type\")",
+                    "target": "setName(\"Value type\")"
+                },
+                {
+                    "source": "setDesc(\"How to interpret the comparison value.\")",
+                    "target": "setDesc(\"How to interpret the comparison value.\")"
+                },
+                {
+                    "source": "setName(\"Expected value\")",
+                    "target": "setName(\"Expected value\")"
+                },
+                {
+                    "source": "setDesc(\"Choose true or false.\")",
+                    "target": "setDesc(\"Choose true or false.\")"
+                },
+                {
+                    "source": "setDesc(\"Value to compare against.\")",
+                    "target": "setDesc(\"Value to compare against.\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Enter comparison value\")",
+                    "target": "setPlaceholder(\"Enter comparison value\")"
+                },
+                {
+                    "source": "setName(\"Script path\")",
+                    "target": "setName(\"Script path\")"
+                },
+                {
+                    "source": "setDesc(\"Vault-relative path to the JavaScript file.\")",
+                    "target": "setDesc(\"Vault-relative path to the JavaScript file.\")"
+                },
+                {
+                    "source": "setTooltip(\"Select a script file\")",
+                    "target": "setTooltip(\"Select a script file\")"
+                },
+                {
+                    "source": "setName(\"Export name\")",
+                    "target": "setName(\"Export name\")"
+                },
+                {
+                    "source": "setName(\"Run on startup\")",
+                    "target": "setName(\"Run on startup\")"
+                },
+                {
+                    "source": "setDesc(\"Execute this macro when Obsidian starts\")",
+                    "target": "setDesc(\"Execute this macro when Obsidian starts\")"
+                },
+                {
+                    "source": "setText(\"Edit Multi Choice\")",
+                    "target": "setText(\"Edit Multi Choice\")"
+                },
+                {
+                    "source": "setName(\"名称\")",
+                    "target": "setName(\"名称\")"
+                },
+                {
+                    "source": "setDesc(\"Shown in the choice picker search box when this multi choice opens. Leave blank to use the multi name.\")",
+                    "target": "setDesc(\"Shown in the choice picker search box when this multi choice opens. Leave blank to use the multi name.\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Defaults to the multi name\")",
+                    "target": "setPlaceholder(\"Defaults to the multi name\")"
+                },
+                {
+                    "source": "Notice(`Failed to load model directory: ${l.message??l}`)",
+                    "target": "Notice(`Failed to load model directory: ${l.message??l}`)"
+                },
+                {
+                    "source": "setPlaceholder(\"Filter by name or id\")",
+                    "target": "setPlaceholder(\"Filter by name or id\")"
+                },
+                {
+                    "source": "setTooltip(\"Select all\")",
+                    "target": "setTooltip(\"Select all\")"
+                },
+                {
+                    "source": "setTooltip(\"Clear selection\")",
+                    "target": "setTooltip(\"Clear selection\")"
+                },
+                {
+                    "source": "setName(\"Import mode\")",
+                    "target": "setName(\"Import mode\")"
+                },
+                {
+                    "source": "setDesc(\"Add will append new models. Replace will overwrite existing models with the selected list.\")",
+                    "target": "setDesc(\"Add will append new models. Replace will overwrite existing models with the selected list.\")"
+                },
+                {
+                    "source": "setButtonText(\"Import selected\")",
+                    "target": "setButtonText(\"Import selected\")"
+                },
+                {
+                    "source": "Notice(\"Select at least one model.\")",
+                    "target": "Notice(\"Select at least one model.\")"
+                },
+                {
+                    "source": "Notice(\"No models selected to import.\")",
+                    "target": "Notice(\"No models selected to import.\")"
+                },
+                {
+                    "source": "Notice(`Import failed: ${l.message??l}`)",
+                    "target": "Notice(`Import failed: ${l.message??l}`)"
+                },
+                {
+                    "source": "setName(\"API 密钥\")",
+                    "target": "setName(\"API 密钥\")"
+                },
+                {
+                    "source": "setDesc(\"Select a secret from SecretStorage\")",
+                    "target": "setDesc(\"Select a secret from SecretStorage\")"
+                },
+                {
+                    "source": "Notice(`Invalid endpoint URL for ${G.name}.`)",
+                    "target": "Notice(`Invalid endpoint URL for ${G.name}.`)"
+                },
+                {
+                    "source": "Notice(`${G.name} requires an API key.`)",
+                    "target": "Notice(`${G.name} requires an API key.`)"
+                },
+                {
+                    "source": "Notice(`${G.name} added. Click Edit to configure models.`)",
+                    "target": "Notice(`${G.name} added. Click Edit to configure models.`)"
+                },
+                {
+                    "source": "Notice(`Failed to add provider: ${m.message??m}`)",
+                    "target": "Notice(`Failed to add provider: ${m.message??m}`)"
+                },
+                {
+                    "source": "setName(\"Custom provider\")",
+                    "target": "setName(\"Custom provider\")"
+                },
+                {
+                    "source": "setDesc(\"Create any custom endpoint (OpenAI-compatible or otherwise)\")",
+                    "target": "setDesc(\"Create any custom endpoint (OpenAI-compatible or otherwise)\")"
+                },
+                {
+                    "source": "setButtonText(\"Add custom...\")",
+                    "target": "setButtonText(\"Add custom...\")"
+                },
+                {
+                    "source": "Notice(\"Custom provider added. Click Edit to configure.\")",
+                    "target": "Notice(\"Custom provider added. Click Edit to configure.\")"
+                },
+                {
+                    "source": "setName(\"提供商\")",
+                    "target": "setName(\"提供商\")"
+                },
+                {
+                    "source": "setDesc(\"AI助手的提供商\")",
+                    "target": "setDesc(\"AI助手的提供商\")"
+                },
+                {
+                    "source": "setButtonText(\"添加提供商\")",
+                    "target": "setButtonText(\"添加提供商\")"
+                },
+                {
+                    "source": "setButtonText(\"编辑\")",
+                    "target": "setButtonText(\"编辑\")"
+                },
+                {
+                    "source": "setDesc(\"提供商的名称\")",
+                    "target": "setDesc(\"提供商的名称\")"
+                },
+                {
+                    "source": "setName(\"端点\")",
+                    "target": "setName(\"端点\")"
+                },
+                {
+                    "source": "setDesc(\"AI助手的端点\")",
+                    "target": "setDesc(\"AI助手的端点\")"
+                },
+                {
+                    "source": "setName(\"Model source\")",
+                    "target": "setName(\"Model source\")"
+                },
+                {
+                    "source": "setDesc(\"Choose where QuickAdd looks when browsing or syncing models for this provider.\")",
+                    "target": "setDesc(\"Choose where QuickAdd looks when browsing or syncing models for this provider.\")"
+                },
+                {
+                    "source": "setDesc(`Max Tokens: ${G.maxTokens}`)",
+                    "target": "setDesc(`Max Tokens: ${G.maxTokens}`)"
+                },
+                {
+                    "source": "setName(\"添加模型\")",
+                    "target": "setName(\"添加模型\")"
+                },
+                {
+                    "source": "setButtonText(\"添加模型\")",
+                    "target": "setButtonText(\"添加模型\")"
+                },
+                {
+                    "source": "setName(\"Import models\")",
+                    "target": "setName(\"Import models\")"
+                },
+                {
+                    "source": "setDesc(`Browse and import models from ${l}.`)",
+                    "target": "setDesc(`Browse and import models from ${l}.`)"
+                },
+                {
+                    "source": "setButtonText(\"Browse models\")",
+                    "target": "setButtonText(\"Browse models\")"
+                },
+                {
+                    "source": "Notice(`Imported ${c.length} models${b===\"replace\"?\" (replaced)\":\" (added)\"}.`)",
+                    "target": "Notice(`Imported ${c.length} models${b===\"replace\"?\" (replaced)\":\" (added)\"}.`)"
+                },
+                {
+                    "source": "setName(\"Auto-sync models\")",
+                    "target": "setName(\"Auto-sync models\")"
+                },
+                {
+                    "source": "setDesc(`Automatically import new models from ${l} when opening settings.`)",
+                    "target": "setDesc(`Automatically import new models from ${l} when opening settings.`)"
+                },
+                {
+                    "source": "setButtonText(\"Sync now\")",
+                    "target": "setButtonText(\"Sync now\")"
+                },
+                {
+                    "source": "Notice(`Models synced from ${l}.`)",
+                    "target": "Notice(`Models synced from ${l}.`)"
+                },
+                {
+                    "source": "Notice(`Sync failed: ${t.message??t}`)",
+                    "target": "Notice(`Sync failed: ${t.message??t}`)"
+                },
+                {
+                    "source": "setButtonText(\"编辑提供商\")",
+                    "target": "setButtonText(\"编辑提供商\")"
+                },
+                {
+                    "source": "setName(\"默认模型\")",
+                    "target": "setName(\"默认模型\")"
+                },
+                {
+                    "source": "setDesc(\"AI助手的默认模型\")",
+                    "target": "setDesc(\"AI助手的默认模型\")"
+                },
+                {
+                    "source": "setName(\"提示模板文件夹路径\")",
+                    "target": "setName(\"提示模板文件夹路径\")"
+                },
+                {
+                    "source": "setDesc(\"包含提示模板的文件夹路径\")",
+                    "target": "setDesc(\"包含提示模板的文件夹路径\")"
+                },
+                {
+                    "source": "setName(\"显示助手\")",
+                    "target": "setName(\"显示助手\")"
+                },
+                {
+                    "source": "setDesc(\"显示 AI 助手的状态消息\")",
+                    "target": "setDesc(\"显示 AI 助手的状态消息\")"
+                },
+                {
+                    "source": "setName(\"默认系统提示\")",
+                    "target": "setName(\"默认系统提示\")"
+                },
+                {
+                    "source": "setDesc(\"AI助手的默认系统提示\")",
+                    "target": "setDesc(\"AI助手的默认系统提示\")"
+                },
+                {
+                    "source": "Notice(\"选项名称无效。\")",
+                    "target": "Notice(\"选项名称无效。\")"
+                },
+                {
+                    "source": "setTitle(\"Move to: (no folders)\")",
+                    "target": "setTitle(\"Move to: (no folders)\")"
+                },
+                {
+                    "source": "setTitle(`Move to: ${d.path}`)",
+                    "target": "setTitle(`Move to: ${d.path}`)"
+                },
+                {
+                    "source": "Notice(\"Select at least one choice to export.\")",
+                    "target": "Notice(\"Select at least one choice to export.\")"
+                },
+                {
+                    "source": "Notice(`Export failed: ${J?.message??String(J)}`)",
+                    "target": "Notice(`Export failed: ${J?.message??String(J)}`)"
+                },
+                {
+                    "source": "Notice(`Copied package (${J.pkg.choices.length} choice${J.pkg.choices.length===1?\"\":\"s\"}) to clipboard.`)",
+                    "target": "Notice(`Copied package (${J.pkg.choices.length} choice${J.pkg.choices.length===1?\"\":\"s\"}) to clipboard.`)"
+                },
+                {
+                    "source": "Notice(\"Package copied with warnings. Review details below.\")",
+                    "target": "Notice(\"Package copied with warnings. Review details below.\")"
+                },
+                {
+                    "source": "Notice(`Copy failed: ${J?.message??String(J)}`)",
+                    "target": "Notice(`Copy failed: ${J?.message??String(J)}`)"
+                },
+                {
+                    "source": "Notice(\"Enter a file path before saving.\")",
+                    "target": "Notice(\"Enter a file path before saving.\")"
+                },
+                {
+                    "source": "Notice(`Saved package (${H.pkg.choices.length} choice${H.pkg.choices.length===1?\"\":\"s\"}) to '${J}'.`)",
+                    "target": "Notice(`Saved package (${H.pkg.choices.length} choice${H.pkg.choices.length===1?\"\":\"s\"}) to '${J}'.`)"
+                },
+                {
+                    "source": "Notice(\"Package saved with warnings. Review details below.\")",
+                    "target": "Notice(\"Package saved with warnings. Review details below.\")"
+                },
+                {
+                    "source": "Notice(`Save failed: ${H?.message??String(H)}`)",
+                    "target": "Notice(`Save failed: ${H?.message??String(H)}`)"
+                },
+                {
+                    "source": "Notice(\"This package has already been imported.\")",
+                    "target": "Notice(\"This package has already been imported.\")"
+                },
+                {
+                    "source": "Notice(\"Load a package before importing.\")",
+                    "target": "Notice(\"Load a package before importing.\")"
+                },
+                {
+                    "source": "Notice(`Imported ${A.addedChoiceIds.length+A.overwrittenChoiceIds.length} choice${A.addedChoiceIds.length+A.overwrittenChoiceIds.length===1?\"\":\"s\"} successfully.`)",
+                    "target": "Notice(`Imported ${A.addedChoiceIds.length+A.overwrittenChoiceIds.length} choice${A.addedChoiceIds.length+A.overwrittenChoiceIds.length===1?\"\":\"s\"} successfully.`)"
+                },
+                {
+                    "source": "Notice(`Import failed: ${H?.message??H}`)",
+                    "target": "Notice(`Import failed: ${H?.message??H}`)"
+                },
+                {
+                    "source": "setName(\"Development Information\")",
+                    "target": "setName(\"Development Information\")"
+                },
+                {
+                    "source": "setDesc(\"Git information for developers.\")",
+                    "target": "setDesc(\"Git information for developers.\")"
+                },
+                {
+                    "source": "setDesc(\"Bundle or import QuickAdd automations as reusable packages.\")",
+                    "target": "setDesc(\"Bundle or import QuickAdd automations as reusable packages.\")"
+                },
+                {
+                    "source": "setButtonText(\"Export package\\u2026\")",
+                    "target": "setButtonText(\"Export package\\u2026\")"
+                },
+                {
+                    "source": "setButtonText(\"Import package\\u2026\")",
+                    "target": "setButtonText(\"Import package\\u2026\")"
+                },
+                {
+                    "source": "setName(\"宣布更新\")",
+                    "target": "setName(\"宣布更新\")"
+                },
+                {
+                    "source": "setDesc(\"安装新版本时显示发布说明。这包括新功能、演示视频和错误修复。\")",
+                    "target": "setDesc(\"安装新版本时显示发布说明。这包括新功能、演示视频和错误修复。\")"
+                },
+                {
+                    "source": "setName(\"Show Capture Notifications\")",
+                    "target": "setName(\"Show Capture Notifications\")"
+                },
+                {
+                    "source": "setDesc(\"Display a notification when content is captured successfully to confirm the operation completed.\")",
+                    "target": "setDesc(\"Display a notification when content is captured successfully to confirm the operation completed.\")"
+                },
+                {
+                    "source": "setName(\"Show Input Cancellation Notifications\")",
+                    "target": "setName(\"Show Input Cancellation Notifications\")"
+                },
+                {
+                    "source": "setDesc(\"Display a notification when an input prompt is cancelled without submitting. Disable this to avoid extra notices when dismissing prompts.\")",
+                    "target": "setDesc(\"Display a notification when an input prompt is cancelled without submitting. Disable this to avoid extra notices when dismissing prompts.\")"
+                },
+                {
+                    "source": "setName(\"使用多行输入提示\")",
+                    "target": "setName(\"使用多行输入提示\")"
+                },
+                {
+                    "source": "setDesc(\"使用多行输入提示而不是单行输入提示\")",
+                    "target": "setDesc(\"使用多行输入提示而不是单行输入提示\")"
+                },
+                {
+                    "source": "setTooltip(\"使用多行输入提示\")",
+                    "target": "setTooltip(\"使用多行输入提示\")"
+                },
+                {
+                    "source": "setName(\"Persist Input Prompt Drafts\")",
+                    "target": "setName(\"Persist Input Prompt Drafts\")"
+                },
+                {
+                    "source": "setDesc(\"Keep drafts when closing input prompts so they can be restored on reopen. Drafts are stored only for this session.\")",
+                    "target": "setDesc(\"Keep drafts when closing input prompts so they can be restored on reopen. Drafts are stored only for this session.\")"
+                },
+                {
+                    "source": "setName(\"Use editor selection as default Capture value\")",
+                    "target": "setName(\"Use editor selection as default Capture value\")"
+                },
+                {
+                    "source": "setDesc(\"When enabled, Capture uses the current editor selection as {{VALUE}} and may skip the prompt. When disabled, Capture always prompts for {{VALUE}}.\")",
+                    "target": "setDesc(\"When enabled, Capture uses the current editor selection as {{VALUE}} and may skip the prompt. When disabled, Capture always prompts for {{VALUE}}.\")"
+                },
+                {
+                    "source": "setName(\"模板文件夹路径\")",
+                    "target": "setName(\"模板文件夹路径\")"
+                },
+                {
+                    "source": "setDesc(\"模板存储的文件夹路径。在配置 QuickAdd 时用于建议模板文件。\")",
+                    "target": "setDesc(\"模板存储的文件夹路径。在配置 QuickAdd 时用于建议模板文件。\")"
+                },
+                {
+                    "source": "setName(\"One-page input for choices (Beta)\")",
+                    "target": "setName(\"One-page input for choices (Beta)\")"
+                },
+                {
+                    "source": "setName(\"Date aliases\")",
+                    "target": "setName(\"Date aliases\")"
+                },
+                {
+                    "source": "setDesc(\"Shortcodes for natural language date parsing. One per line: alias = phrase. Example: tm = tomorrow.\")",
+                    "target": "setDesc(\"Shortcodes for natural language date parsing. One per line: alias = phrase. Example: tm = tomorrow.\")"
+                },
+                {
+                    "source": "setPlaceholder(`t = today\ntm = tomorrow\nyd = yesterday`)",
+                    "target": "setPlaceholder(`t = today\ntm = tomorrow\nyd = yesterday`)"
+                },
+                {
+                    "source": "setButtonText(\"Reset to defaults\")",
+                    "target": "setButtonText(\"Reset to defaults\")"
+                },
+                {
+                    "source": "setName(\"禁用 AI 和联机功能\")",
+                    "target": "setName(\"禁用 AI 和联机功能\")"
+                },
+                {
+                    "source": "setDesc(\"这可以防止插件向OpenAI等外部提供者发出请求。您仍然可以使用用户脚本执行任意代码，包括联系外部提供商。但是，此设置会禁用AI助手等插件功能。您需要禁用此设置才能使用AI助手。\")",
+                    "target": "setDesc(\"这可以防止插件向OpenAI等外部提供者发出请求。您仍然可以使用用户脚本执行任意代码，包括联系外部提供商。但是，此设置会禁用AI助手等插件功能。您需要禁用此设置才能使用AI助手。\")"
+                },
+                {
+                    "source": "setName(\"在侧边栏显示图标\")",
+                    "target": "setName(\"在侧边栏显示图标\")"
+                },
+                {
+                    "source": "setDesc(\"在侧边栏中添加 QuickAdd 图标。需要重新加载。\")",
+                    "target": "setDesc(\"在侧边栏中添加 QuickAdd 图标。需要重新加载。\")"
+                },
+                {
+                    "source": "setName(\"结果连接程序\")",
+                    "target": "setName(\"结果连接程序\")"
+                },
+                {
+                    "source": "setDesc(\"用于将多个 LLM 响应连接在一起的字符串。默认是换行符。\")",
+                    "target": "setDesc(\"用于将多个 LLM 响应连接在一起的字符串。默认是换行符。\")"
+                },
+                {
+                    "source": "setName(\"块状分离器\")",
+                    "target": "setName(\"块状分离器\")"
+                },
+                {
+                    "source": "setDesc(\"用于分隔文本块的字符串。默认是换行符。\")",
+                    "target": "setDesc(\"用于分隔文本块的字符串。默认是换行符。\")"
+                },
+                {
+                    "source": "setName(\"最大区块标记\")",
+                    "target": "setName(\"最大区块标记\")"
+                },
+                {
+                    "source": "setDesc(\"每块标记的最大数量，计算公式为块标记大小 + 提示模板标记大小 + 系统提示标记大小。确保为模型响应提示留出空间。\")",
+                    "target": "setDesc(\"每块标记的最大数量，计算公式为块标记大小 + 提示模板标记大小 + 系统提示标记大小。确保为模型响应提示留出空间。\")"
+                },
+                {
+                    "source": "setName(\"合并区块\")",
+                    "target": "setName(\"合并区块\")"
+                },
+                {
+                    "source": "setDesc(\"将数据块合并到同一提示符中，直到达到最大token数限制。这有助于减少发送查询的次数，但可能会导致回复不连贯。\")",
+                    "target": "setDesc(\"将数据块合并到同一提示符中，直到达到最大token数限制。这有助于减少发送查询的次数，但可能会导致回复不连贯。\")"
+                },
+                {
+                    "source": "text: '${this.text}'",
+                    "target": "text: '${this.text}'"
+                },
+                {
+                    "source": "name:\"Document Name\"",
+                    "target": "name:\"Document Name\""
+                },
+                {
+                    "source": "name:\"应用样式\"",
+                    "target": "name:\"应用样式\""
+                },
+                {
+                    "source": "name:\"箭头\"",
+                    "target": "name:\"箭头\""
+                },
+                {
+                    "source": "name:\"计算样式\"",
+                    "target": "name:\"计算样式\""
+                },
+                {
+                    "source": "name:\"事件监听器\"",
+                    "target": "name:\"事件监听器\""
+                },
+                {
+                    "source": "name:\"翻转\"",
+                    "target": "name:\"翻转\""
+                },
+                {
+                    "source": "text:\"参考\"",
+                    "target": "text:\"参考\""
+                },
+                {
+                    "source": "name:\"隐藏\"",
+                    "target": "name:\"隐藏\""
+                },
+                {
+                    "source": "name:\"偏移\"",
+                    "target": "name:\"偏移\""
+                },
+                {
+                    "source": "name:\"popper 偏移\"",
+                    "target": "name:\"popper 偏移\""
+                },
+                {
+                    "source": "name:\"防止溢出\"",
+                    "target": "name:\"防止溢出\""
+                },
+                {
+                    "source": "name:\"相同宽度\"",
+                    "target": "name:\"相同宽度\""
+                },
+                {
+                    "source": "text:`Aliases (${c.length})`",
+                    "target": "text:`Aliases (${c.length})`"
+                },
+                {
+                    "source": "text:\"Provide inputs\"",
+                    "target": "text:\"Provide inputs\""
+                },
+                {
+                    "source": "text:`Aliases (${Y.length})`",
+                    "target": "text:`Aliases (${Y.length})`"
+                },
+                {
+                    "source": "name: \"gpt-4\"",
+                    "target": "name: \"gpt-4\""
+                },
+                {
+                    "source": "textContent=\"捕获到活动文件\"",
+                    "target": "textContent=\"捕获到活动文件\""
+                },
+                {
+                    "source": "text:\"Preview: \"",
+                    "target": "text:\"Preview: \""
+                },
+                {
+                    "source": "textContent=\"Loading preview\\u2026\"",
+                    "target": "textContent=\"Loading preview\\u2026\""
+                },
+                {
+                    "source": "textContent=\"Preview unavailable\"",
+                    "target": "textContent=\"Preview unavailable\""
+                },
+                {
+                    "source": "text:\"Tip: open this canvas and select one card to grab its id instantly.\"",
+                    "target": "text:\"Tip: open this canvas and select one card to grab its id instantly.\""
+                },
+                {
+                    "source": "text:\"Open target canvas\"",
+                    "target": "text:\"Open target canvas\""
+                },
+                {
+                    "source": "text:\"Use selected in open canvas\"",
+                    "target": "text:\"Use selected in open canvas\""
+                },
+                {
+                    "source": "text:\"Loading canvas nodes\\u2026\"",
+                    "target": "text:\"Loading canvas nodes\\u2026\""
+                },
+                {
+                    "source": "text:\"No nodes match the current filter.\"",
+                    "target": "text:\"No nodes match the current filter.\""
+                },
+                {
+                    "source": "text:\"Copy ID\"",
+                    "target": "text:\"Copy ID\""
+                },
+                {
+                    "source": "innerText=\"Loading preview\\u2026\"",
+                    "target": "innerText=\"Loading preview\\u2026\""
+                },
+                {
+                    "source": "innerText=\"Preview unavailable\"",
+                    "target": "innerText=\"Preview unavailable\""
+                },
+                {
+                    "source": "text:\"创建新笔记时选择文件夹\"",
+                    "target": "text:\"创建新笔记时选择文件夹\""
+                },
+                {
+                    "source": "innerText=`${this.settings?.name}${this.settings?.author?\" by \"+this.settings?.author:\"\"}`",
+                    "target": "innerText=`${this.settings?.name}${this.settings?.author?\" by \"+this.settings?.author:\"\"}`"
+                },
+                {
+                    "source": "text:`${this.settings.name} 设置`",
+                    "target": "text:`${this.settings.name} 设置`"
+                },
+                {
+                    "source": "text:\"Exact for OpenAI models; estimates for others.\"",
+                    "target": "text:\"Exact for OpenAI models; estimates for others.\""
+                },
+                {
+                    "source": "textContent=\"Open File Command Settings\"",
+                    "target": "textContent=\"Open File Command Settings\""
+                },
+                {
+                    "source": "name=`Open file: ${G}`",
+                    "target": "name=`Open file: ${G}`"
+                },
+                {
+                    "source": "text:\"No JavaScript files found\"",
+                    "target": "text:\"No JavaScript files found\""
+                },
+                {
+                    "source": "text:\"QuickAdd cannot find any .js files in your vault.\"",
+                    "target": "text:\"QuickAdd cannot find any .js files in your vault.\""
+                },
+                {
+                    "source": "text:\"Please make sure your scripts are:\"",
+                    "target": "text:\"Please make sure your scripts are:\""
+                },
+                {
+                    "source": "text:\"\\u2713 In your vault (not in .obsidian folder)\"",
+                    "target": "text:\"\\u2713 In your vault (not in .obsidian folder)\""
+                },
+                {
+                    "source": "text:\"\\u2713 Not in hidden folders (starting with a dot)\"",
+                    "target": "text:\"\\u2713 Not in hidden folders (starting with a dot)\""
+                },
+                {
+                    "source": "text:\"\\u2713 Have a .js extension\"",
+                    "target": "text:\"\\u2713 Have a .js extension\""
+                },
+                {
+                    "source": "text:\"View documentation\"",
+                    "target": "text:\"View documentation\""
+                },
+                {
+                    "source": "name=`Open file: ${this.filePath}`",
+                    "target": "name=`Open file: ${this.filePath}`"
+                },
+                {
+                    "source": "text:\"Configure Conditional Command\"",
+                    "target": "text:\"Configure Conditional Command\""
+                },
+                {
+                    "source": "name=`If ${l}`",
+                    "target": "name=`If ${l}`"
+                },
+                {
+                    "source": "text:`Browse models for ${this.provider.name}`",
+                    "target": "text:`Browse models for ${this.provider.name}`"
+                },
+                {
+                    "source": "text:`${G.maxTokens.toLocaleString()} tokens max`",
+                    "target": "text:`${G.maxTokens.toLocaleString()} tokens max`"
+                },
+                {
+                    "source": "name:\"Hugging Face\"",
+                    "target": "name:\"Hugging Face\""
+                },
+                {
+                    "source": "text:\"Add a provider\"",
+                    "target": "text:\"Add a provider\""
+                },
+                {
+                    "source": "text:\"AI助手设置\"",
+                    "target": "text:\"AI助手设置\""
+                },
+                {
+                    "source": "textContent=\"模板\"",
+                    "target": "textContent=\"模板\""
+                },
+                {
+                    "source": "textContent=\"捕获\"",
+                    "target": "textContent=\"捕获\""
+                },
+                {
+                    "source": "textContent=\"宏\"",
+                    "target": "textContent=\"宏\""
+                },
+                {
+                    "source": "textContent=\"组合\"",
+                    "target": "textContent=\"组合\""
+                },
+                {
+                    "source": "textContent=\"添加选项\"",
+                    "target": "textContent=\"添加选项\""
+                },
+                {
+                    "source": "textContent=\"AI助手\"",
+                    "target": "textContent=\"AI助手\""
+                },
+                {
+                    "source": "textContent=\"Global Variables\"",
+                    "target": "textContent=\"Global Variables\""
+                },
+                {
+                    "source": "textContent=\"Add variable\"",
+                    "target": "textContent=\"Add variable\""
+                },
+                {
+                    "source": "textContent=\"No choices match the current filter.\"",
+                    "target": "textContent=\"No choices match the current filter.\""
+                },
+                {
+                    "source": "textContent=\"Missing dependencies detected\"",
+                    "target": "textContent=\"Missing dependencies detected\""
+                },
+                {
+                    "source": "textContent=\"Missing assets:\"",
+                    "target": "textContent=\"Missing assets:\""
+                },
+                {
+                    "source": "textContent=\"Select visible\"",
+                    "target": "textContent=\"Select visible\""
+                },
+                {
+                    "source": "textContent=\"Clear selection\"",
+                    "target": "textContent=\"Clear selection\""
+                },
+                {
+                    "source": "textContent=\"Package summary\"",
+                    "target": "textContent=\"Package summary\""
+                },
+                {
+                    "source": "textContent=\"Selected choices\"",
+                    "target": "textContent=\"Selected choices\""
+                },
+                {
+                    "source": "textContent=\"Total packaged\"",
+                    "target": "textContent=\"Total packaged\""
+                },
+                {
+                    "source": "textContent=\"Save to file\"",
+                    "target": "textContent=\"Save to file\""
+                },
+                {
+                    "source": "textContent=\"Analyzing package\\u2026\"",
+                    "target": "textContent=\"Analyzing package\\u2026\""
+                },
+                {
+                    "source": "textContent=\"QuickAdd version:\"",
+                    "target": "textContent=\"QuickAdd version:\""
+                },
+                {
+                    "source": "textContent=\"Choice decisions\"",
+                    "target": "textContent=\"Choice decisions\""
+                },
+                {
+                    "source": "textContent=\"Asset decisions\"",
+                    "target": "textContent=\"Asset decisions\""
+                },
+                {
+                    "source": "textContent=\"No choices found in this package.\"",
+                    "target": "textContent=\"No choices found in this package.\""
+                },
+                {
+                    "source": "textContent=\"No additional assets bundled with this package.\"",
+                    "target": "textContent=\"No additional assets bundled with this package.\""
+                },
+                {
+                    "source": "textContent=\"Destination path\"",
+                    "target": "textContent=\"Destination path\""
+                },
+                {
+                    "source": "textContent=\"Last import\"",
+                    "target": "textContent=\"Last import\""
+                },
+                {
+                    "source": "textContent=\"Paste package JSON\"",
+                    "target": "textContent=\"Paste package JSON\""
+                },
+                {
+                    "source": "description:\"'增量文件名称' 设置移至 '如果文件已存在，则设置默认行为' 设置\"",
+                    "target": "description:\"'增量文件名称' 设置移至 '如果文件已存在，则设置默认行为' 设置\""
+                },
+                {
+                    "source": "description:\"插入其后 和 写入文件底部 设置相互排斥。如果启用 插入其后，则会禁用 写入文件底部。以支持更改设置界面。\"",
+                    "target": "description:\"插入其后 和 写入文件底部 设置相互排斥。如果启用 插入其后，则会禁用 写入文件底部。以支持更改设置界面。\""
+                },
+                {
+                    "source": "description:\"将版本设置为当前插件版本。\"",
+                    "target": "description:\"将版本设置为当前插件版本。\""
+                },
+                {
+                    "source": "description:\"将默认 AI 提供商添加到设置中。\"",
+                    "target": "description:\"将默认 AI 提供商添加到设置中。\""
+                },
+                {
+                    "source": "description:\"Migrate legacy openFileInNewTab settings to new fileOpening format\"",
+                    "target": "description:\"Migrate legacy openFileInNewTab settings to new fileOpening format\""
+                },
+                {
+                    "source": "description:\"Backfill missing file opening defaults for older choices\"",
+                    "target": "description:\"Backfill missing file opening defaults for older choices\""
+                },
+                {
+                    "source": "description:\"Ensure every AI provider has a discovery mode so browsing works without models.dev\"",
+                    "target": "description:\"Ensure every AI provider has a discovery mode so browsing works without models.dev\""
+                },
+                {
+                    "source": "description:\"Move AI provider API keys into Obsidian SecretStorage\"",
+                    "target": "description:\"Move AI provider API keys into Obsidian SecretStorage\""
+                },
+                {
+                    "source": "text:\"获取更新日志中...\"",
+                    "target": "text:\"获取更新日志中...\""
+                },
+                {
+                    "source": "description:\"Choice name\"",
+                    "target": "description:\"Choice name\""
+                },
+                {
+                    "source": "description:\"Choice id\"",
+                    "target": "description:\"Choice id\""
+                },
+                {
+                    "source": "description:\"Variables object as JSON\"",
+                    "target": "description:\"Variables object as JSON\""
+                },
+                {
+                    "source": "description:\"Allow interactive prompts\"",
+                    "target": "description:\"Allow interactive prompts\""
+                },
+                {
+                    "source": "description:\"Filter by choice type\"",
+                    "target": "description:\"Filter by choice type\""
+                },
+                {
+                    "source": "description:\"Only include command-enabled choices\"",
+                    "target": "description:\"Only include command-enabled choices\""
+                },
+                {
+                    "source": "name:\"运行 QuickAdd\"",
+                    "target": "name:\"运行 QuickAdd\""
+                },
+                {
+                    "source": "name:\"重新加载 QuickAdd (开发版)\"",
+                    "target": "name:\"重新加载 QuickAdd (开发版)\""
+                },
+                {
+                    "source": "name:\"测试 QuickAdd (开发版)\"",
+                    "target": "name:\"测试 QuickAdd (开发版)\""
+                },
+                {
+                    "source": "name:\"测试\"",
+                    "target": "name:\"测试\""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,264 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "scrolling",
+        "version": "1.0.0",
+        "title": "Scrolling",
+        "description": "Scrolling Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.3.8",
+        "author": "545"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Restore scroll position",
+                    "target": "Restore scroll position"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Restore cursor position",
+                    "target": "Restore cursor position"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Start at bottom",
+                    "target": "Start at bottom"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Start at top (Obsidian's default)",
+                    "target": "Start at top (Obsidian's default)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Always show scrollbar",
+                    "target": "Always show scrollbar"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Show scrollbar while scrolling",
+                    "target": "Show scrollbar while scrolling"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Always hide scrollbar",
+                    "target": "Always hide scrollbar"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Percentage (%)",
+                    "target": "Percentage (%)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Characters (ch)",
+                    "target": "Characters (ch)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Pixels (px)",
+                    "target": "Pixels (px)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Simulated (Experimental)",
+                    "target": "Simulated (Experimental)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "未能加载滚动位置文件：",
+                    "target": "未能加载滚动位置文件："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "未能写入滚动位置文件：",
+                    "target": "未能写入滚动位置文件："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "已加载滚动插件",
+                    "target": "已加载滚动插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Scrolling插件已卸载",
+                    "target": "Scrolling插件已卸载"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "无限",
+                    "target": "无限"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "恢复默认",
+                    "target": "恢复默认"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "路径不变。",
+                    "target": "路径不变。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "文件路径无效！",
+                    "target": "文件路径无效！"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "文件目录不存在。",
+                    "target": "文件目录不存在。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "文件已存在：$｛t｝",
+                    "target": "文件已存在：$｛t｝"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "将存储文件重命名为：$｛t｝",
+                    "target": "将存储文件重命名为：$｛t｝"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "无法写入滚动位置文件。正在禁用磁盘存储。",
+                    "target": "无法写入滚动位置文件。正在禁用磁盘存储。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "到顶部",
+                    "target": "到顶部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "到底部",
+                    "target": "到底部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "要报告错误或提供反馈，请使用",
+                    "target": "要报告错误或提供反馈，请使用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "问题跟踪系统",
+                    "target": "问题跟踪系统"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "和那个",
+                    "target": "和那个"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "讨论页面",
+                    "target": "讨论页面"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "确认",
+                    "target": "确认"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "Notice(\"文件路径无效！\")",
+                    "target": "Notice(\"文件路径无效！\")"
+                },
+                {
+                    "source": "Notice(\"文件目录不存在。\")",
+                    "target": "Notice(\"文件目录不存在。\")"
+                },
+                {
+                    "source": "Notice(`文件已存在：$｛t｝`)",
+                    "target": "Notice(`文件已存在：$｛t｝`)"
+                },
+                {
+                    "source": "Notice(`将存储文件重命名为：$｛t｝`)",
+                    "target": "Notice(`将存储文件重命名为：$｛t｝`)"
+                },
+                {
+                    "source": "Notice(\"无法写入滚动位置文件。正在禁用磁盘存储。\")",
+                    "target": "Notice(\"无法写入滚动位置文件。正在禁用磁盘存储。\")"
+                },
+                {
+                    "source": "setTooltip(\"恢复默认\")",
+                    "target": "setTooltip(\"恢复默认\")"
+                },
+                {
+                    "source": "setPlaceholder(\"无限\")",
+                    "target": "setPlaceholder(\"无限\")"
+                },
+                {
+                    "source": "log(\"已加载滚动插件\")",
+                    "target": "log(\"已加载滚动插件\")"
+                },
+                {
+                    "source": "log(\"Scrolling插件已卸载\")",
+                    "target": "log(\"Scrolling插件已卸载\")"
+                },
+                {
+                    "source": "name:\"到顶部\"",
+                    "target": "name:\"到顶部\""
+                },
+                {
+                    "source": "name:\"到底部\"",
+                    "target": "name:\"到底部\""
+                },
+                {
+                    "source": "text:\"要报告错误或提供反馈，请使用\"",
+                    "target": "text:\"要报告错误或提供反馈，请使用\""
+                },
+                {
+                    "source": "text:\"问题跟踪系统\"",
+                    "target": "text:\"问题跟踪系统\""
+                },
+                {
+                    "source": "text:\"和那个\"",
+                    "target": "text:\"和那个\""
+                },
+                {
+                    "source": "text:\"讨论页面\"",
+                    "target": "text:\"讨论页面\""
+                },
+                {
+                    "source": "text:\"确认\"",
+                    "target": "text:\"确认\""
+                }
+            ]
+        }
+    }
+}
